@@ -45,7 +45,7 @@ public class JavaSubstringComparisons {
         for(int i=0;i<=s.length()-k;i++)
         {
             subString[i] = s.substring(i,i+k);
-            System.out.println(" " + subString[i]);
+            //System.out.println(" " + subString[i]);
             //System.out.println(subString.length);
         }
 
@@ -58,9 +58,14 @@ public class JavaSubstringComparisons {
                     String temp = subString[l];
                     subString[l] = subString[j];
                     subString[j] = temp;
+
+                    System.out.println(" " + subString[j]);
+                    System.out.println(" " + subString[l] + "\n");
                 }
             }
+            //System.out.println(" " + subString[j]);
         }
+
 
         smallest = subString[0];
         largest=subString[s.length()-k];
