@@ -47,6 +47,7 @@
     <configuration name="Substring Comparison" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="JavaSubstringComparisons" />
       <module name="HackerRank" />
+      <option name="PROGRAM_PARAMETERS" value="welcometojava 3" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -75,7 +76,7 @@
       <option name="presentableId" value="Default" />
       <updated>1584394507643</updated>
       <workItem from="1584394510435" duration="8101000" />
-      <workItem from="1584557232868" duration="1655000" />
+      <workItem from="1584557232868" duration="4619000" />
     </task>
     <servers />
   </component>
@@ -83,10 +84,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="137" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584413943440">
+    <state x="137" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584559930082">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="137" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1584413943440" />
+    <state x="137" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1584559930082" />
     <state x="412" y="155" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1584413891416">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -95,22 +96,38 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1584394632975" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1584558923711">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1584568611366">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584558923711" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1584558923710">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584568611366" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1584568611366">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584558923710" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1584558923710">
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584568611366" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1584568611366">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584558923710" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1584558923711">
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584568611366" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1584568611366">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584558923711" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584568611366" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1584568454816">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584568454816" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1584568454816">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1584568454816" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1584568454816">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1584568454816" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1584568454816">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1584568454816" />
     <state x="186" y="10" key="SettingsEditor" timestamp="1584394639868">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -123,5 +140,16 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1584424086441" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/JavaSubstringComparisons.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

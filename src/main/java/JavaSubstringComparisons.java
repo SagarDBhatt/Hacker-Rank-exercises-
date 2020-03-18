@@ -45,26 +45,26 @@ public class JavaSubstringComparisons {
         for(int i=0;i<=s.length()-k;i++)
         {
             subString[i] = s.substring(i,i+k);
-            System.out.println(" " + subString[i]);
-            //System.out.println(subString.length);
         }
 
-        for(int j = 0; j < s.length()-k; j++)
+        for(int j = 0; j <= s.length()-k; j++)
         {
-            if(subString[j].compareTo(subString[j+1])>0)
+            for(int m=j+1;m <= s.length()-k; m++ )
             {
-                String temp = subString[j+1];
-                subString[j+1] = subString[j];
-                subString[j] = temp;
+                if(subString[j].compareTo(subString[m])>0)
+                {
+                    String temp = subString[j];
+                    subString[j] = subString[m];
+                    subString[m] = temp;
+                }
             }
+
         }
 
         smallest = subString[0];
         largest=subString[s.length()-k];
 
         System.out.println(smallest + " - " + largest);
-        //return "Substring == " + subString;
-        //return smallest + "\n" + largest;
     }
 
 }
