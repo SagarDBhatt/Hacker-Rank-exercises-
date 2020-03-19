@@ -4,7 +4,6 @@
     <list default="true" id="b7fd8dcf-bc07-4ecf-864d-e47fe1a126ad" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/JavaSubstringComparisons.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JavaSubstringComparisons.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaSubstringComparisons.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaSubstringComparisons.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +38,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
@@ -76,7 +76,7 @@
       <option name="presentableId" value="Default" />
       <updated>1584394507643</updated>
       <workItem from="1584394510435" duration="8101000" />
-      <workItem from="1584557232868" duration="4619000" />
+      <workItem from="1584557232868" duration="5942000" />
     </task>
     <servers />
   </component>
@@ -96,22 +96,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1584394632975" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1584568611366">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1584594578823">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584568611366" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1584568611366">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584594578823" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1584594578823">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584568611366" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1584568611366">
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584594578823" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1584594578823">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584568611366" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1584568611366">
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584594578823" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1584594578823">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584568611366" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584594578823" />
     <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1584568454816">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -146,7 +146,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/JavaSubstringComparisons.java</url>
-          <line>49</line>
+          <line>18</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
