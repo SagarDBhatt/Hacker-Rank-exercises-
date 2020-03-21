@@ -7,12 +7,12 @@ public class Palindrome {
 
         Scanner sc=new Scanner(System.in);
         String A=sc.next();
-        int length = A.length() / 2;
+
         boolean dec = false;
 
-        for(int i = 0; i < length; i++)
+        for(int i = 0; i < A.length(); i++)
         {
-            if(A.charAt(i) == A.charAt(length-i))
+            if(A.charAt(i) == A.charAt(A.length()-i-1))
                 dec = true;
 
             else
