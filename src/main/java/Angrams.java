@@ -1,3 +1,7 @@
+import javax.xml.transform.Source;
+import java.util.Arrays;
+import java.util.Scanner;
+
 /*
 Two strings,  and , are called anagrams if they contain all the same characters in the same frequencies. For example, the anagrams of CAT are CAT, ACT, TAC, TCA, ATC, and CTA.
 
@@ -53,6 +57,65 @@ Two strings,  and , are called anagrams if they contain all the same characters 
 */
 public class Angrams {
 
-    
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        System.out.println("Enter two strings");
+        String a = scan.next();
+        String b = scan.next();
+        scan.close();
 
-}
+        if(isEqualLength(a,b)){
+            System.out.println("Same length");
+            if(isSameCharacters(a,b))
+                System.out.println("Same characters (any order)");
+            else
+                System.out.println("No angrams");
+        }
+
+
+
+/*        boolean ret = isAnagram(a, b);
+        System.out.println( (ret) ? "Anagrams" : "Not Anagrams" );*/
+
+    }//end of main()
+
+    public static boolean isEqualLength(String a, String b){
+        if(a.length() == b.length())
+            return true;
+        else
+            return false;
+    }
+
+    public static boolean isSameCharacters(String a, String b){
+        //Initialize char array.
+        char aChars[] = new char[a.length()];
+        char bChars[] = new char[b.length()];
+        boolean judge = false;
+
+        //Convert String to Char array.
+        aChars = a.toCharArray();
+        bChars = b.toCharArray();
+
+        //Converting char array into lower case for comparison
+        for(int i=0; i<a.length();i++){
+            aChars[i] = Character.toLowerCase(aChars[i]);
+            bChars[i] = Character.toLowerCase(bChars[i]);
+        }
+
+        //Sort Char arrays
+        Arrays.sort(aChars);
+        Arrays.sort(bChars);
+
+        //Identify if both strings has same character.
+        for(int i = 0; i < a.length(); i++){
+            if( Character.toLowerCase(aChars[i]) == Character.toLowerCase(bChars[i]))
+               judge = true;
+
+            else {
+                judge = false;
+                break;
+            }
+        }
+        return judge;
+    }
+}//end of class

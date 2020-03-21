@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b7fd8dcf-bc07-4ecf-864d-e47fe1a126ad" name="Default Changelist" comment="" />
+    <list default="true" id="b7fd8dcf-bc07-4ecf-864d-e47fe1a126ad" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Angrams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Angrams.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,9 +41,16 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="debugger.stepping" />
   </component>
-  <component name="RunManager" selected="Application.Palindrome">
+  <component name="RunManager" selected="Application.Angrams">
+    <configuration name="Angrams" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Angrams" />
+      <module name="HackerRank" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Palindrome" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Palindrome" />
       <module name="HackerRank" />
@@ -59,6 +69,7 @@
     <list>
       <item itemvalue="Application.Substring Comparison" />
       <item itemvalue="Application.Palindrome" />
+      <item itemvalue="Application.Angrams" />
     </list>
   </component>
   <component name="ServiceViewManager">
@@ -85,7 +96,7 @@
       <updated>1584394507643</updated>
       <workItem from="1584394510435" duration="8101000" />
       <workItem from="1584557232868" duration="5999000" />
-      <workItem from="1584767642609" duration="2509000" />
+      <workItem from="1584767642609" duration="7807000" />
     </task>
     <servers />
   </component>
@@ -93,62 +104,62 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="137" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584769054956">
+    <state x="137" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584815640126">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="137" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1584769054956" />
-    <state x="412" y="155" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1584768076513">
+    <state x="137" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1584815640126" />
+    <state x="412" y="155" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1584815637405">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="412" y="155" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1584768076513" />
+    <state x="412" y="155" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1584815637405" />
     <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1584394632975">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1584394632975" />
-    <state width="1323" height="272" key="GridCell.Tab.0.bottom" timestamp="1584769168269">
+    <state width="1323" height="272" key="GridCell.Tab.0.bottom" timestamp="1584828659815">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="272" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584769168269" />
-    <state width="1323" height="272" key="GridCell.Tab.0.center" timestamp="1584769168268">
+    <state width="1323" height="272" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584828659815" />
+    <state width="1323" height="272" key="GridCell.Tab.0.center" timestamp="1584828659815">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="272" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584769168268" />
-    <state width="1323" height="272" key="GridCell.Tab.0.left" timestamp="1584769168268">
+    <state width="1323" height="272" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584828659815" />
+    <state width="1323" height="272" key="GridCell.Tab.0.left" timestamp="1584828659815">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="272" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584769168268" />
-    <state width="1323" height="272" key="GridCell.Tab.0.right" timestamp="1584769168269">
+    <state width="1323" height="272" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584828659815" />
+    <state width="1323" height="272" key="GridCell.Tab.0.right" timestamp="1584828659815">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="272" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584769168269" />
-    <state width="1323" height="272" key="GridCell.Tab.1.bottom" timestamp="1584769168269">
+    <state width="1323" height="272" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584828659815" />
+    <state width="1323" height="272" key="GridCell.Tab.1.bottom" timestamp="1584828659816">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="272" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584769168269" />
-    <state width="1323" height="272" key="GridCell.Tab.1.center" timestamp="1584769168269">
+    <state width="1323" height="272" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584828659816" />
+    <state width="1323" height="272" key="GridCell.Tab.1.center" timestamp="1584828659816">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="272" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1584769168269" />
-    <state width="1323" height="272" key="GridCell.Tab.1.left" timestamp="1584769168269">
+    <state width="1323" height="272" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1584828659816" />
+    <state width="1323" height="272" key="GridCell.Tab.1.left" timestamp="1584828659816">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="272" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1584769168269" />
-    <state width="1323" height="272" key="GridCell.Tab.1.right" timestamp="1584769168269">
+    <state width="1323" height="272" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1584828659816" />
+    <state width="1323" height="272" key="GridCell.Tab.1.right" timestamp="1584828659816">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="272" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1584769168269" />
-    <state x="186" y="10" key="SettingsEditor" timestamp="1584394639868">
+    <state width="1323" height="272" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1584828659816" />
+    <state x="186" y="10" key="SettingsEditor" timestamp="1584827822400">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="186" y="10" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1584394639868" />
+    <state x="186" y="10" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1584827822400" />
     <state x="391" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1584767642587">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="391" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1584767642587" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1584424086441">
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1584815280844">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1584424086441" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1584815280844" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -162,6 +173,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/Palindrome.java</url>
           <line>12</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Angrams.java</url>
+          <line>90</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
