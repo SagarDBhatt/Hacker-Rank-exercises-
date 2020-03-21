@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b7fd8dcf-bc07-4ecf-864d-e47fe1a126ad" name="Default Changelist" comment="" />
+    <list default="true" id="b7fd8dcf-bc07-4ecf-864d-e47fe1a126ad" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Palindrome.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,7 +43,14 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Palindrome">
+    <configuration name="Palindrome" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Palindrome" />
+      <module name="HackerRank" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Substring Comparison" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="JavaSubstringComparisons" />
       <module name="HackerRank" />
@@ -49,6 +59,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.Substring Comparison" />
+      <item itemvalue="Application.Palindrome" />
+    </list>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -74,6 +88,7 @@
       <updated>1584394507643</updated>
       <workItem from="1584394510435" duration="8101000" />
       <workItem from="1584557232868" duration="5999000" />
+      <workItem from="1584767642609" duration="656000" />
     </task>
     <servers />
   </component>
@@ -81,34 +96,34 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="137" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584559930082">
+    <state x="137" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584768079961">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="137" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1584559930082" />
-    <state x="412" y="155" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1584413891416">
+    <state x="137" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1584768079961" />
+    <state x="412" y="155" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1584768076513">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="412" y="155" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1584413891416" />
+    <state x="412" y="155" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1584768076513" />
     <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1584394632975">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1584394632975" />
-    <state width="1323" height="223" key="GridCell.Tab.0.bottom" timestamp="1584594630319">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1584768354118">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584594630319" />
-    <state width="1323" height="223" key="GridCell.Tab.0.center" timestamp="1584594630319">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584768354118" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1584768354117">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584594630319" />
-    <state width="1323" height="223" key="GridCell.Tab.0.left" timestamp="1584594630319">
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584768354117" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1584768354117">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584594630319" />
-    <state width="1323" height="223" key="GridCell.Tab.0.right" timestamp="1584594630319">
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584768354117" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1584768354117">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584594630319" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584768354117" />
     <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1584594630319">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
