@@ -56,6 +56,8 @@ Two strings,  and , are called anagrams if they contain all the same characters 
 
 */
 public class Angrams {
+    static char aChars[];
+    static char bChars[];
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
@@ -64,13 +66,9 @@ public class Angrams {
         String b = scan.next();
         scan.close();
 
-        if(isEqualLength(a,b)){
-            System.out.println("Same length");
-            if(isSameCharacters(a,b))
-                System.out.println("Same characters (any order)");
-            else
-                System.out.println("No angrams");
-        }
+        boolean ans = isEqualLength(a,b);
+        boolean an = isSameCharacters(a,b);
+        calcFreq(a,b);
 
 
 
@@ -87,14 +85,19 @@ public class Angrams {
     }
 
     public static boolean isSameCharacters(String a, String b){
-        //Initialize char array.
-        char aChars[] = new char[a.length()];
-        char bChars[] = new char[b.length()];
-        boolean judge = false;
+        /*//Initialize char array.
+        char[] aChars = new char[a.length()];
+        char[] bChars = new char[b.length()];
+
 
         //Convert String to Char array.
         aChars = a.toCharArray();
+        bChars = b.toCharArray();*/
+
+        //4 lines Code -> 2 Lines code. Save 2 line.
+        aChars = a.toCharArray();
         bChars = b.toCharArray();
+        boolean judge = false;
 
         //Converting char array into lower case for comparison
         for(int i=0; i<a.length();i++){
@@ -108,7 +111,7 @@ public class Angrams {
 
         //Identify if both strings has same character.
         for(int i = 0; i < a.length(); i++){
-            if( Character.toLowerCase(aChars[i]) == Character.toLowerCase(bChars[i]))
+            if( aChars[i] == bChars[i])
                judge = true;
 
             else {
@@ -118,4 +121,28 @@ public class Angrams {
         }
         return judge;
     }
+
+    public static void calcFreq(String a, String b){
+
+        int[] freqA = new int[a.length()];
+        int[] freqB = new int[b.length()];
+
+        for( int i = 0; i < aChars.length; i++) {
+            freqA[i] = 1;
+
+            for(int j = i+1; j < aChars.length; j++){
+                if(aChars[i] == aChars[j]){
+                 freqA[i] += 1;
+                 aChars[j] = '0';
+                }
+            }
+        }
+
+        for(int i=0;i<freqA.length;i++)
+        {
+            if(aChars[i] != '0')
+            System.out.println("Char - " + aChars[i] + " Freq = " + freqA[i]);
+        }
+    }
+
 }//end of class
