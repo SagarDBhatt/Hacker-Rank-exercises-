@@ -66,9 +66,11 @@ public class Angrams {
         String b = scan.next();
         scan.close();
 
-        boolean ans = isEqualLength(a,b);
-        boolean an = isSameCharacters(a,b);
-        calcFreq(a,b);
+       if(isEqualLength(a,b) && isSameCharacters(a,b) && calcFreq(a,b)){
+           System.out.println("Anagrams");
+       }
+       else
+           System.out.println("Not Anagrams");
 
 
 
@@ -122,10 +124,11 @@ public class Angrams {
         return judge;
     }
 
-    public static void calcFreq(String a, String b){
+    public static boolean calcFreq(String a, String b){
 
         int[] freqA = new int[a.length()];
         int[] freqB = new int[b.length()];
+        boolean cond = false;
 
         for( int i = 0; i < aChars.length; i++) {
             freqA[i] = 1;
@@ -138,11 +141,26 @@ public class Angrams {
             }
         }
 
+        for( int i = 0; i < bChars.length; i++) {
+            freqB[i] = 1;
+
+            for(int j = i+1; j < bChars.length; j++){
+                if(bChars[i] == bChars[j]){
+                    freqB[i] += 1;
+                    bChars[j] = '0';
+                }
+            }
+        }
+
         for(int i=0;i<freqA.length;i++)
         {
-            if(aChars[i] != '0')
-            System.out.println("Char - " + aChars[i] + " Freq = " + freqA[i]);
+            if(aChars[i] != '0' && bChars[i] != 0){
+                if(aChars[i] == bChars[i]) {
+                    cond = true;
+                }
+            }
         }
+        return cond;
     }
 
 }//end of class
