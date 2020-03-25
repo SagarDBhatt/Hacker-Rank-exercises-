@@ -53,10 +53,16 @@ public class JavaStringTokens {
             //System.out.println(sp);
             counter++;
         }*/
-        if(split.equals(""))
+
+
+        if(s== null || s.trim().equals("")){
             counter = 0;
-        else
+           //System.out.println("Inside 0");
+        }
+
+        else {
             counter = split.length;
+        }
         System.out.println("Count =" + counter);
         for(String s2: split){
             System.out.println(s2);
