@@ -37,7 +37,28 @@ Given a string, , matching the regular expression [A-Za-z !,?._'@]+, split the s
 
 */
 
+import java.util.Scanner;
+
 public class JavaStringTokens {
 
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        System.out.println("Enter the string here: ");
+        String s = scan.nextLine();
+        int counter = 0;
+        // Write your code here.
 
-}
+        String[] split = s.split("[\\s!,?._'@]+");
+/*        for(String sp : split){
+            //System.out.println(sp);
+            counter++;
+        }*/
+        counter = split.length;
+        System.out.println("Count =" + counter);
+        for(String s2: split){
+            System.out.println(s2);
+        }
+
+        scan.close();
+    }//end of main
+}//end of class
