@@ -48,12 +48,15 @@ public class JavaStringTokens {
         int counter = 0;
         // Write your code here.
 
-        String[] split = s.split("[\\s!,?._'@]+");
+        String[] split = s.trim().split("[\\s!,?._'@]+");
 /*        for(String sp : split){
             //System.out.println(sp);
             counter++;
         }*/
-        counter = split.length;
+        if(split.equals(""))
+            counter = 0;
+        else
+            counter = split.length;
         System.out.println("Count =" + counter);
         for(String s2: split){
             System.out.println(s2);
