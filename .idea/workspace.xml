@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7fd8dcf-bc07-4ecf-864d-e47fe1a126ad" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Miscallaneous/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Miscallaneous/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/PatternSyntaxChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PatternSyntaxChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Angrams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/EasyLevel/Angrams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/JavaStringTokens.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/EasyLevel/JavaStringTokens.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/JavaSubstringComparisons.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/EasyLevel/JavaSubstringComparisons.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/EasyLevel/Palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PatternSyntaxChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/EasyLevel/PatternSyntaxChecker.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,37 +49,44 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="settings.editor.selected.configurable" value="debugger.stepping" />
   </component>
-  <component name="RunManager" selected="Application.PatternChecker">
+  <component name="RunManager" selected="Application.MainClass">
     <configuration name="Angrams" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="Angrams" />
+      <option name="MAIN_CLASS_NAME" value="EasyLevel.Angrams" />
       <module name="HackerRank" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="JavaStringTokens" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="JavaStringTokens" />
+      <option name="MAIN_CLASS_NAME" value="EasyLevel.JavaStringTokens" />
+      <module name="HackerRank" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainClass" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Miscallaneous.MainClass" />
       <module name="HackerRank" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Palindrome" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="Palindrome" />
+      <option name="MAIN_CLASS_NAME" value="EasyLevel.Palindrome" />
       <module name="HackerRank" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="PatternChecker" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="PatternSyntaxChecker" />
+      <option name="MAIN_CLASS_NAME" value="EasyLevel.PatternSyntaxChecker" />
       <module name="HackerRank" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Substring Comparison" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="JavaSubstringComparisons" />
+      <option name="MAIN_CLASS_NAME" value="EasyLevel.JavaSubstringComparisons" />
       <module name="HackerRank" />
       <option name="PROGRAM_PARAMETERS" value="welcometojava 3" />
       <method v="2">
@@ -82,6 +95,7 @@
     </configuration>
     <list>
       <item itemvalue="Application.PatternChecker" />
+      <item itemvalue="Application.MainClass" />
       <item itemvalue="Application.Substring Comparison" />
       <item itemvalue="Application.Palindrome" />
       <item itemvalue="Application.Angrams" />
@@ -115,7 +129,7 @@
       <workItem from="1584767642609" duration="14821000" />
       <workItem from="1585089226336" duration="7431000" />
       <workItem from="1585173447781" duration="1534000" />
-      <workItem from="1585187352189" duration="870000" />
+      <workItem from="1585187352189" duration="1780000" />
     </task>
     <servers />
   </component>
@@ -123,34 +137,34 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="96" y="30" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585187737993">
+    <state x="96" y="30" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585198132531">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="96" y="30" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1585187737993" />
-    <state x="550" y="187" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1585187732019">
+    <state x="96" y="30" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1585198132531" />
+    <state x="550" y="187" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1585198130280">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="550" y="187" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1585187732019" />
+    <state x="550" y="187" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1585198130280" />
     <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1584394632975">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1584394632975" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1585188261288">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1585198192179">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585188261288" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1585188261288">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585198192179" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1585198192179">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585188261288" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1585188261288">
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585198192179" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1585198192179">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585188261288" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1585188261288">
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585198192179" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1585198192179">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585188261288" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585198192179" />
     <state width="1323" height="272" key="GridCell.Tab.1.bottom" timestamp="1584899305312">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -184,14 +198,9 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/JavaSubstringComparisons.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/EasyLevel/JavaSubstringComparisons.java</url>
           <line>18</line>
           <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Palindrome.java</url>
-          <line>12</line>
-          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

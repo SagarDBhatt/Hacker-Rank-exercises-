@@ -1,3 +1,5 @@
+package EasyLevel;
+
 import javax.xml.transform.Source;
 import java.util.Arrays;
 import java.util.Scanner;

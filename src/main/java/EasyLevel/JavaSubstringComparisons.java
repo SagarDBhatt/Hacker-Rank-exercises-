@@ -1,3 +1,5 @@
+package EasyLevel;
+
 import java.util.Scanner;
 
 public class JavaSubstringComparisons {

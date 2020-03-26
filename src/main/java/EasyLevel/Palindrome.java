@@ -1,3 +1,5 @@
+package EasyLevel;
+
 import java.io.*;
 import java.util.*;
 

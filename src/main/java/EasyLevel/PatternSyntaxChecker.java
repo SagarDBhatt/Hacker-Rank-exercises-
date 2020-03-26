@@ -1,4 +1,4 @@
-/*Using Regex, we can easily match or search for patterns in a text. Before searching for a pattern, we have to specify one using some well-defined syntax.
+package EasyLevel;/*Using Regex, we can easily match or search for patterns in a text. Before searching for a pattern, we have to specify one using some well-defined syntax.
 
         In this problem, you are given a pattern. You have to check whether the syntax of the given pattern is valid.
 
@@ -31,7 +31,7 @@ public class PatternSyntaxChecker {
 
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
-        System.out.println("Enter Test Cases");
+        System.out.println("Enter Miscallaneous.Test Cases");
         int testCases = Integer.parseInt(in.nextLine());
         while(testCases>0){
             String pattern = in.nextLine();
