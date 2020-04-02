@@ -30,5 +30,5 @@ class IPregex{
 
 //Write your code here
 class MyRegex{
-    String pattern = "[0-9]{3}.[0-9]{3}.[0-9]{3}.[0-9]{3}";
+    String pattern = "[0-9]{1,3}.[0-9]{1,3}.[0-9]{1,3}.[0-9]{1,3}";
 }
