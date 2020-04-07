@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7fd8dcf-bc07-4ecf-864d-e47fe1a126ad" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/EasyLevel/DuplicateWords.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -133,7 +134,7 @@
       <workItem from="1585187352189" duration="2418000" />
       <workItem from="1585508825370" duration="1803000" />
       <workItem from="1585708613299" duration="5486000" />
-      <workItem from="1585859245930" duration="3442000" />
+      <workItem from="1585859245930" duration="7398000" />
     </task>
     <servers />
   </component>
