@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7fd8dcf-bc07-4ecf-864d-e47fe1a126ad" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/EasyLevel/ValidateUserName.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/EasyLevel/ValidateUserName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/EasyLevel/ValidateUserName.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +43,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="settings.editor.selected.configurable" value="debugger.stepping" />
   </component>
-  <component name="RunManager" selected="Application.DuplicateWords">
+  <component name="RunManager" selected="Application.ValidateUserName">
     <configuration name="Angrams" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="EasyLevel.Angrams" />
       <module name="HackerRank" />
@@ -101,6 +101,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ValidateUserName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EasyLevel.ValidateUserName" />
+      <module name="HackerRank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EasyLevel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.PatternChecker" />
       <item itemvalue="Application.Remainder" />
@@ -110,7 +123,13 @@
       <item itemvalue="Application.Palindrome" />
       <item itemvalue="Application.Angrams" />
       <item itemvalue="Application.JavaStringTokens" />
+      <item itemvalue="Application.ValidateUserName" />
     </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ValidateUserName" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -145,7 +164,7 @@
       <workItem from="1585859245930" duration="9150000" />
       <workItem from="1586397873207" duration="3748000" />
       <workItem from="1586743465120" duration="1776000" />
-      <workItem from="1586807849244" duration="1548000" />
+      <workItem from="1586807849244" duration="2885000" />
     </task>
     <servers />
   </component>
@@ -165,22 +184,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586401673399" />
-    <state width="1306" height="176" key="GridCell.Tab.0.bottom" timestamp="1586312676777">
+    <state width="1323" height="178" key="GridCell.Tab.0.bottom" timestamp="1586811127182">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="176" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586312676777" />
-    <state width="1306" height="176" key="GridCell.Tab.0.center" timestamp="1586312676777">
+    <state width="1323" height="178" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586811127182" />
+    <state width="1323" height="178" key="GridCell.Tab.0.center" timestamp="1586811127181">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="176" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586312676777" />
-    <state width="1306" height="176" key="GridCell.Tab.0.left" timestamp="1586312676776">
+    <state width="1323" height="178" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586811127181" />
+    <state width="1323" height="178" key="GridCell.Tab.0.left" timestamp="1586811127180">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="176" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586312676776" />
-    <state width="1306" height="176" key="GridCell.Tab.0.right" timestamp="1586312676777">
+    <state width="1323" height="178" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586811127180" />
+    <state width="1323" height="178" key="GridCell.Tab.0.right" timestamp="1586811127181">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="176" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586312676777" />
+    <state width="1323" height="178" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586811127181" />
     <state width="1323" height="272" key="GridCell.Tab.1.bottom" timestamp="1584899305312">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

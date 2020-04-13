@@ -20,5 +20,5 @@ public class ValidateUserName {
 }
 
 class UsernameValidator{
-    static String regularExpression = null;
+    static String regularExpression = "^[a-zA-Z]{1}[\\w_]{7,29}$";
 }
