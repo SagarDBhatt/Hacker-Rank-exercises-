@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7fd8dcf-bc07-4ecf-864d-e47fe1a126ad" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Exercises/SingletonClass/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Exercises/SingletonClass/RunnerClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Exercises/SingletonClass/Singleton.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/EasyLevel/UsernameValidator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/EasyLevel/UsernameValidator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/HackerRank.kotlin_module" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +48,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="settings.editor.selected.configurable" value="debugger.stepping" />
   </component>
-  <component name="RunManager" selected="Application.ValidateUserName">
+  <component name="RunManager" selected="Application.RunnerClass">
     <configuration name="Angrams" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="EasyLevel.Angrams" />
       <module name="HackerRank" />
@@ -92,6 +98,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RunnerClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercises.SingletonClass.RunnerClass" />
+      <module name="HackerRank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercises.SingletonClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Substring Comparison" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="EasyLevel.JavaSubstringComparisons" />
       <module name="HackerRank" />
@@ -123,9 +142,11 @@
       <item itemvalue="Application.Angrams" />
       <item itemvalue="Application.JavaStringTokens" />
       <item itemvalue="Application.ValidateUserName" />
+      <item itemvalue="Application.RunnerClass" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RunnerClass" />
         <item itemvalue="Application.ValidateUserName" />
       </list>
     </recent_temporary>
@@ -164,6 +185,10 @@
       <workItem from="1586397873207" duration="3748000" />
       <workItem from="1586743465120" duration="1776000" />
       <workItem from="1586807849244" duration="4488000" />
+      <workItem from="1587532983914" duration="1097000" />
+      <workItem from="1587607453050" duration="2290000" />
+      <workItem from="1588564179806" duration="1204000" />
+      <workItem from="1596560554659" duration="2098000" />
     </task>
     <servers />
   </component>
@@ -171,66 +196,30 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="96" y="30" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586303541607">
+    <state width="1867" height="306" key="GridCell.Tab.0.bottom" timestamp="1596561360509">
+      <screen x="1366" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1867" height="306" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1160@1366.0.1920.1160" timestamp="1596561360509" />
+    <state width="1867" height="306" key="GridCell.Tab.0.center" timestamp="1596561360508">
+      <screen x="1366" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1867" height="306" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1160@1366.0.1920.1160" timestamp="1596561360508" />
+    <state width="1867" height="306" key="GridCell.Tab.0.left" timestamp="1596561360508">
+      <screen x="1366" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1867" height="306" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1160@1366.0.1920.1160" timestamp="1596561360508" />
+    <state width="1867" height="306" key="GridCell.Tab.0.right" timestamp="1596561360508">
+      <screen x="1366" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1867" height="306" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1160@1366.0.1920.1160" timestamp="1596561360508" />
+    <state x="391" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1588643205191">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="96" y="30" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1586303541607" />
-    <state x="550" y="187" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1586303536741">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="391" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1588643205191" />
+    <state x="1961" y="274" width="729" height="612" key="find.popup" timestamp="1596561057092">
+      <screen x="1366" y="0" width="1920" height="1160" />
     </state>
-    <state x="550" y="187" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1586303536741" />
-    <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1586401673399">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586401673399" />
-    <state width="1323" height="178" key="GridCell.Tab.0.bottom" timestamp="1587259773797">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="178" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587259773797" />
-    <state width="1323" height="178" key="GridCell.Tab.0.center" timestamp="1587259773796">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="178" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587259773796" />
-    <state width="1323" height="178" key="GridCell.Tab.0.left" timestamp="1587259773796">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="178" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587259773796" />
-    <state width="1323" height="178" key="GridCell.Tab.0.right" timestamp="1587259773796">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="178" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587259773796" />
-    <state width="1323" height="272" key="GridCell.Tab.1.bottom" timestamp="1584899305312">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="272" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584899305312" />
-    <state width="1323" height="272" key="GridCell.Tab.1.center" timestamp="1584899305311">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="272" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1584899305311" />
-    <state width="1323" height="272" key="GridCell.Tab.1.left" timestamp="1584899305311">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="272" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1584899305311" />
-    <state width="1323" height="272" key="GridCell.Tab.1.right" timestamp="1584899305312">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="272" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1584899305312" />
-    <state x="186" y="10" key="SettingsEditor" timestamp="1584827822400">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="186" y="10" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1584827822400" />
-    <state x="391" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1586807872839">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="391" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586807872839" />
-    <state x="65" y="0" key="new project wizard" timestamp="1586401723343">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1586401723343" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1584815280844">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1584815280844" />
+    <state x="1961" y="274" width="729" height="612" key="find.popup/0.0.1366.728/1366.0.1920.1160@1366.0.1920.1160" timestamp="1596561057092" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

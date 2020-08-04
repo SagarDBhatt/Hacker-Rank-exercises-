@@ -21,4 +21,9 @@
         </plugins>
     </build>
 
+<!--    <properties>
+        <maven.source.compiler>11</maven.source.compiler>
+        <maven.source.target>11</maven.source.target>
+    </properties>-->
+
 </project>
