@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7fd8dcf-bc07-4ecf-864d-e47fe1a126ad" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Exercises/SingletonClass/Notes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Exercises/SingletonClass/RunnerClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Exercises/SingletonClass/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Exercises/Algorithm/SimpleArraySum/ProblemStatement" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Exercises/Algorithm/SimpleArraySum/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Exercises/TagContentExtractor/ProblemStatements" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Exercises/TagContentExtractor/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/EasyLevel/UsernameValidator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/EasyLevel/UsernameValidator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/HackerRank.kotlin_module" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,9 +44,10 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Certifications/Udemy/REST-api/Udemy-RESTful-Webservies-with-Spring-Framework" />
     <property name="settings.editor.selected.configurable" value="debugger.stepping" />
   </component>
-  <component name="RunManager" selected="Application.RunnerClass">
+  <component name="RunManager" selected="Application.Solution">
     <configuration name="Angrams" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="EasyLevel.Angrams" />
       <module name="HackerRank" />
@@ -111,6 +110,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercises.ProblemSolving.SimpleArraySum.Solution" />
+      <module name="HackerRank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercises.ProblemSolving.SimpleArraySum.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Substring Comparison" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="EasyLevel.JavaSubstringComparisons" />
       <module name="HackerRank" />
@@ -143,9 +155,11 @@
       <item itemvalue="Application.JavaStringTokens" />
       <item itemvalue="Application.ValidateUserName" />
       <item itemvalue="Application.RunnerClass" />
+      <item itemvalue="Application.Solution" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution" />
         <item itemvalue="Application.RunnerClass" />
         <item itemvalue="Application.ValidateUserName" />
       </list>
@@ -188,7 +202,16 @@
       <workItem from="1587532983914" duration="1097000" />
       <workItem from="1587607453050" duration="2290000" />
       <workItem from="1588564179806" duration="1204000" />
-      <workItem from="1596560554659" duration="2098000" />
+      <workItem from="1596560554659" duration="3642000" />
+      <workItem from="1596584619804" duration="1737000" />
+      <workItem from="1596645399750" duration="2735000" />
+      <workItem from="1596740963728" duration="158000" />
+      <workItem from="1596741208948" duration="2161000" />
+      <workItem from="1596766853822" duration="1263000" />
+      <workItem from="1596827549249" duration="1116000" />
+      <workItem from="1597203599594" duration="816000" />
+      <workItem from="1597252782831" duration="1191000" />
+      <workItem from="1597334105657" duration="1995000" />
     </task>
     <servers />
   </component>
@@ -196,30 +219,40 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1867" height="306" key="GridCell.Tab.0.bottom" timestamp="1596561360509">
+    <state x="1996" y="375" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597339668770">
       <screen x="1366" y="0" width="1920" height="1160" />
     </state>
-    <state width="1867" height="306" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1160@1366.0.1920.1160" timestamp="1596561360509" />
-    <state width="1867" height="306" key="GridCell.Tab.0.center" timestamp="1596561360508">
+    <state x="1996" y="375" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728/1366.0.1920.1160@1366.0.1920.1160" timestamp="1597339668770" />
+    <state x="2056" y="282" key="FileChooserDialogImpl" timestamp="1596768027808">
       <screen x="1366" y="0" width="1920" height="1160" />
     </state>
-    <state width="1867" height="306" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1160@1366.0.1920.1160" timestamp="1596561360508" />
-    <state width="1867" height="306" key="GridCell.Tab.0.left" timestamp="1596561360508">
+    <state x="2056" y="282" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1920.1160@1366.0.1920.1160" timestamp="1596768027808" />
+    <state width="1867" height="306" key="GridCell.Tab.0.bottom" timestamp="1597340205284">
       <screen x="1366" y="0" width="1920" height="1160" />
     </state>
-    <state width="1867" height="306" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1160@1366.0.1920.1160" timestamp="1596561360508" />
-    <state width="1867" height="306" key="GridCell.Tab.0.right" timestamp="1596561360508">
+    <state width="1867" height="306" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1160@1366.0.1920.1160" timestamp="1597340205284" />
+    <state width="1867" height="306" key="GridCell.Tab.0.center" timestamp="1597340205283">
       <screen x="1366" y="0" width="1920" height="1160" />
     </state>
-    <state width="1867" height="306" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1160@1366.0.1920.1160" timestamp="1596561360508" />
-    <state x="391" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1588643205191">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1867" height="306" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1160@1366.0.1920.1160" timestamp="1597340205283" />
+    <state width="1867" height="306" key="GridCell.Tab.0.left" timestamp="1597340205283">
+      <screen x="1366" y="0" width="1920" height="1160" />
     </state>
-    <state x="391" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1588643205191" />
+    <state width="1867" height="306" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1160@1366.0.1920.1160" timestamp="1597340205283" />
+    <state width="1867" height="306" key="GridCell.Tab.0.right" timestamp="1597340205283">
+      <screen x="1366" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1867" height="306" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1160@1366.0.1920.1160" timestamp="1597340205283" />
     <state x="1961" y="274" width="729" height="612" key="find.popup" timestamp="1596561057092">
       <screen x="1366" y="0" width="1920" height="1160" />
     </state>
     <state x="1961" y="274" width="729" height="612" key="find.popup/0.0.1366.728/1366.0.1920.1160@1366.0.1920.1160" timestamp="1596561057092" />
+    <state x="1400" y="44" key="new project wizard" timestamp="1596748318585">
+      <screen x="1366" y="0" width="1600" height="860" />
+    </state>
+    <state x="1400" y="44" key="new project wizard/0.0.1366.728/1366.0.1600.860@1366.0.1600.860" timestamp="1596748318585" />
+    <state x="1657" y="234" key="new project wizard/0.0.1366.728/1366.0.1920.1160@1366.0.1920.1160" timestamp="1596654310457" />
+    <state x="29" y="37" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1596741478869" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
