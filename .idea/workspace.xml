@@ -1,8 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7fd8dcf-bc07-4ecf-864d-e47fe1a126ad" name="Default Changelist" comment="">
+    <list default="true" id="b7fd8dcf-bc07-4ecf-864d-e47fe1a126ad" name="Default Changelist" comment="Java Loops I &amp; Java Loops II exercises">
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Miscallaneous/Java_Loops_I.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Miscallaneous/Java_Loops_I.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Miscallaneous/Java_Loops_II.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Miscallaneous/Java_Loops_II.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Exercises/Algorithm/CompareTriplets/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Exercises/Algorithm/CompareTriplets/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/HackerRank.kotlin_module" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,31 +29,25 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
-  </component>
   <component name="ProjectId" id="1ZEBjUHoTvNjDkLRQE0jHtEFl3L" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="2" id="Remove" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="GitStage.ChangesTree.GroupingKeys" value="directory&#10;module&#10;repository" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Certifications/Udemy/REST-api/Udemy-RESTful-Webservies-with-Spring-Framework" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Certifications/Udemy/REST-api/Udemy-RESTful-Webservies-with-Spring-Framework" />
     <property name="settings.editor.selected.configurable" value="debugger.stepping" />
   </component>
-  <component name="RunManager" selected="Application.Solution (1)">
+  <component name="RunManager" selected="Application.Java_Loops_II">
     <configuration name="Angrams" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="EasyLevel.Angrams" />
       <module name="HackerRank" />
@@ -68,6 +72,32 @@
     <configuration name="JavaStringTokens" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="EasyLevel.JavaStringTokens" />
       <module name="HackerRank" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Java_Loops_I" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Miscallaneous.Java_Loops_I" />
+      <module name="HackerRank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Miscallaneous.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Java_Loops_II" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Miscallaneous.Java_Loops_II" />
+      <module name="HackerRank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Miscallaneous.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -140,19 +170,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ValidateUserName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EasyLevel.ValidateUserName" />
-      <module name="HackerRank" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="EasyLevel.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.PatternChecker" />
       <item itemvalue="Application.Remainder" />
@@ -162,17 +179,19 @@
       <item itemvalue="Application.Palindrome" />
       <item itemvalue="Application.Angrams" />
       <item itemvalue="Application.JavaStringTokens" />
-      <item itemvalue="Application.ValidateUserName" />
       <item itemvalue="Application.RunnerClass" />
       <item itemvalue="Application.Solution" />
       <item itemvalue="Application.Solution (1)" />
+      <item itemvalue="Application.Java_Loops_I" />
+      <item itemvalue="Application.Java_Loops_II" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Java_Loops_II" />
+        <item itemvalue="Application.Java_Loops_I" />
         <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.RunnerClass" />
-        <item itemvalue="Application.ValidateUserName" />
       </list>
     </recent_temporary>
   </component>
@@ -188,12 +207,13 @@
       </list>
     </option>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b7fd8dcf-bc07-4ecf-864d-e47fe1a126ad" name="Default Changelist" comment="" />
+      <changelist id="" name="Default Changelist" comment="" />
       <created>1584394507643</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -225,50 +245,48 @@
       <workItem from="1597334105657" duration="5627000" />
       <workItem from="1597510653420" duration="601000" />
     </task>
+    <task id="LOCAL-00001" summary="HackerRank Mac">
+      <created>1631307241631</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1631307241631</updated>
+    </task>
+    <task id="LOCAL-00002" summary="HackerRank Mac">
+      <created>1631307484936</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1631307484936</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Java Loops I &amp; Java Loops II exercises">
+      <created>1631311841522</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1631311841522</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="1996" y="375" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597340913680">
-      <screen x="1366" y="0" width="1920" height="1160" />
-    </state>
-    <state x="1996" y="375" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728/1366.0.1920.1160@1366.0.1920.1160" timestamp="1597340913680" />
-    <state x="2087" y="223" key="#com.intellij.ide.util.MemberChooser" timestamp="1597346046025">
-      <screen x="1366" y="0" width="1920" height="1160" />
-    </state>
-    <state x="2087" y="223" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/1366.0.1920.1160@1366.0.1920.1160" timestamp="1597346046025" />
-    <state x="2056" y="282" key="FileChooserDialogImpl" timestamp="1596768027808">
-      <screen x="1366" y="0" width="1920" height="1160" />
-    </state>
-    <state x="2056" y="282" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1920.1160@1366.0.1920.1160" timestamp="1596768027808" />
-    <state width="1867" height="306" key="GridCell.Tab.0.bottom" timestamp="1597380308903">
-      <screen x="1366" y="0" width="1920" height="1160" />
-    </state>
-    <state width="1867" height="306" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1160@1366.0.1920.1160" timestamp="1597380308903" />
-    <state width="1867" height="306" key="GridCell.Tab.0.center" timestamp="1597380308901">
-      <screen x="1366" y="0" width="1920" height="1160" />
-    </state>
-    <state width="1867" height="306" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1160@1366.0.1920.1160" timestamp="1597380308901" />
-    <state width="1867" height="306" key="GridCell.Tab.0.left" timestamp="1597380308900">
-      <screen x="1366" y="0" width="1920" height="1160" />
-    </state>
-    <state width="1867" height="306" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1160@1366.0.1920.1160" timestamp="1597380308900" />
-    <state width="1867" height="306" key="GridCell.Tab.0.right" timestamp="1597380308901">
-      <screen x="1366" y="0" width="1920" height="1160" />
-    </state>
-    <state width="1867" height="306" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1160@1366.0.1920.1160" timestamp="1597380308901" />
-    <state x="1961" y="274" width="729" height="612" key="find.popup" timestamp="1596561057092">
-      <screen x="1366" y="0" width="1920" height="1160" />
-    </state>
-    <state x="1961" y="274" width="729" height="612" key="find.popup/0.0.1366.728/1366.0.1920.1160@1366.0.1920.1160" timestamp="1596561057092" />
-    <state x="1400" y="44" key="new project wizard" timestamp="1596748318585">
-      <screen x="1366" y="0" width="1600" height="860" />
-    </state>
-    <state x="1400" y="44" key="new project wizard/0.0.1366.728/1366.0.1600.860@1366.0.1600.860" timestamp="1596748318585" />
-    <state x="1657" y="234" key="new project wizard/0.0.1366.728/1366.0.1920.1160@1366.0.1920.1160" timestamp="1596654310457" />
-    <state x="29" y="37" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1596741478869" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="HackerRank Mac" />
+    <MESSAGE value="Java Loops I &amp; Java Loops II exercises" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java Loops I &amp; Java Loops II exercises" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -277,6 +295,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/EasyLevel/JavaSubstringComparisons.java</url>
           <line>18</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Miscallaneous/Java_Loops_II.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
