@@ -45,7 +45,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="debugger.stepping" />
   </component>
-  <component name="RunManager" selected="Application.Week1__Mini_Max_Sum">
+  <component name="RunManager" selected="Application.week1_timeConversion">
     <configuration name="Angrams" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="EasyLevel.Angrams" />
       <module name="HackerRank" />
@@ -121,19 +121,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercises.Algorithm.CompareTriplets.Solution" />
-      <module name="HackerRank" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Exercises.Algorithm.CompareTriplets.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Substring Comparison" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="EasyLevel.JavaSubstringComparisons" />
       <module name="HackerRank" />
@@ -168,6 +155,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="week1_timeConversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThreeMonthPreparationKit.October_2022.week1_timeConversion" />
+      <module name="HackerRank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ThreeMonthPreparationKit.October_2022.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.PatternChecker" />
       <item itemvalue="Application.Remainder" />
@@ -177,19 +177,19 @@
       <item itemvalue="Application.Palindrome" />
       <item itemvalue="Application.Angrams" />
       <item itemvalue="Application.JavaStringTokens" />
-      <item itemvalue="Application.Solution (1)" />
       <item itemvalue="Application.Java_Loops_I" />
       <item itemvalue="Application.Java_Loops_II" />
       <item itemvalue="Application.Week_1_PlusMinus" />
       <item itemvalue="Application.Week1__Mini_Max_Sum" />
+      <item itemvalue="Application.week1_timeConversion" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.week1_timeConversion" />
         <item itemvalue="Application.Week1__Mini_Max_Sum" />
         <item itemvalue="Application.Week_1_PlusMinus" />
         <item itemvalue="Application.Java_Loops_II" />
         <item itemvalue="Application.Java_Loops_I" />
-        <item itemvalue="Application.Solution (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -211,7 +211,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="da3458d7-eba8-4b27-a6c4-7ae30125f22d" name="Changes" comment="" />
+      <changelist id="0da68a34-5b58-440e-872f-7f52e9f0e87b" name="Changes" comment="" />
       <created>1584394507643</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
