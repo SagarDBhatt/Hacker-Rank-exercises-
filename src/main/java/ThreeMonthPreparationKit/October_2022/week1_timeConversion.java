@@ -68,8 +68,8 @@ class Result{
         String timePreference = splitTime[splitTime.length-1].substring(2);
 //        System.out.println(timePreference);
 
+        String newHour = "";
         if(timePreference.equals("AM")){
-            String newHour = "";
             if(Integer.parseInt(hourClock) == 12) newHour = "00";
             //else newHour = String.valueOf(Integer.parseInt(hourClock));
             else newHour = hourClock;
@@ -77,7 +77,6 @@ class Result{
             System.out.println(newMilitaryTime);
         }
         else{
-            String newHour ="";
             if(Integer.parseInt(hourClock) == 12) newHour = hourClock;
             else newHour= String.valueOf(Integer.parseInt(hourClock) + 12);
             String newMilitaryTime = newHour + ":" + minuteClock +":" + secondClock;

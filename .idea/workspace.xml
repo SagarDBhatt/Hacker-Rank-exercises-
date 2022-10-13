@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7fd8dcf-bc07-4ecf-864d-e47fe1a126ad" name="Default Changelist" comment="Java Loops I &amp; Java Loops II exercises" />
+    <list default="true" id="b7fd8dcf-bc07-4ecf-864d-e47fe1a126ad" name="Default Changelist" comment="Java Loops I &amp; Java Loops II exercises">
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/week1_timeConversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/week1_timeConversion.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,7 +47,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="debugger.stepping" />
   </component>
-  <component name="RunManager" selected="Application.week1_timeConversion">
+  <component name="RunManager" selected="Application.Week1_04_BreakingRecord">
     <configuration name="Angrams" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="EasyLevel.Angrams" />
       <module name="HackerRank" />
@@ -70,19 +72,6 @@
     <configuration name="JavaStringTokens" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="EasyLevel.JavaStringTokens" />
       <module name="HackerRank" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Java_Loops_I" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Miscallaneous.Java_Loops_I" />
-      <module name="HackerRank" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Miscallaneous.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -125,6 +114,19 @@
       <option name="MAIN_CLASS_NAME" value="EasyLevel.JavaSubstringComparisons" />
       <module name="HackerRank" />
       <option name="PROGRAM_PARAMETERS" value="welcometojava 3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Week1_04_BreakingRecord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThreeMonthPreparationKit.October_2022.Week1_04_BreakingRecord" />
+      <module name="HackerRank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ThreeMonthPreparationKit.October_2022.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -177,19 +179,19 @@
       <item itemvalue="Application.Palindrome" />
       <item itemvalue="Application.Angrams" />
       <item itemvalue="Application.JavaStringTokens" />
-      <item itemvalue="Application.Java_Loops_I" />
       <item itemvalue="Application.Java_Loops_II" />
       <item itemvalue="Application.Week_1_PlusMinus" />
       <item itemvalue="Application.Week1__Mini_Max_Sum" />
       <item itemvalue="Application.week1_timeConversion" />
+      <item itemvalue="Application.Week1_04_BreakingRecord" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Week1_04_BreakingRecord" />
         <item itemvalue="Application.week1_timeConversion" />
         <item itemvalue="Application.Week1__Mini_Max_Sum" />
         <item itemvalue="Application.Week_1_PlusMinus" />
         <item itemvalue="Application.Java_Loops_II" />
-        <item itemvalue="Application.Java_Loops_I" />
       </list>
     </recent_temporary>
   </component>
@@ -211,7 +213,6 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0da68a34-5b58-440e-872f-7f52e9f0e87b" name="Changes" comment="" />
       <created>1584394507643</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
