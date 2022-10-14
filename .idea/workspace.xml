@@ -22,6 +22,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/main/java/Exercises/TagContentExtractor/Solution.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/main/java/Exercises/TagContentExtractor/ProblemStatements" root0="FORCE_HIGHLIGHTING" />
@@ -45,9 +53,10 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="debugger.stepping" />
   </component>
-  <component name="RunManager" selected="Application.Week1_04_BreakingRecord">
+  <component name="RunManager" selected="Application.Week1_05_CamelCaseConversion">
     <configuration name="Angrams" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="EasyLevel.Angrams" />
       <module name="HackerRank" />
@@ -72,19 +81,6 @@
     <configuration name="JavaStringTokens" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="EasyLevel.JavaStringTokens" />
       <module name="HackerRank" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Java_Loops_II" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Miscallaneous.Java_Loops_II" />
-      <module name="HackerRank" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Miscallaneous.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -120,6 +116,19 @@
     </configuration>
     <configuration name="Week1_04_BreakingRecord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ThreeMonthPreparationKit.October_2022.Week1_04_BreakingRecord" />
+      <module name="HackerRank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ThreeMonthPreparationKit.October_2022.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Week1_05_CamelCaseConversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThreeMonthPreparationKit.October_2022.Week1_05_CamelCaseConversion" />
       <module name="HackerRank" />
       <extension name="coverage">
         <pattern>
@@ -179,19 +188,19 @@
       <item itemvalue="Application.Palindrome" />
       <item itemvalue="Application.Angrams" />
       <item itemvalue="Application.JavaStringTokens" />
-      <item itemvalue="Application.Java_Loops_II" />
       <item itemvalue="Application.Week_1_PlusMinus" />
       <item itemvalue="Application.Week1__Mini_Max_Sum" />
       <item itemvalue="Application.week1_timeConversion" />
       <item itemvalue="Application.Week1_04_BreakingRecord" />
+      <item itemvalue="Application.Week1_05_CamelCaseConversion" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Week1_05_CamelCaseConversion" />
         <item itemvalue="Application.Week1_04_BreakingRecord" />
         <item itemvalue="Application.week1_timeConversion" />
         <item itemvalue="Application.Week1__Mini_Max_Sum" />
         <item itemvalue="Application.Week_1_PlusMinus" />
-        <item itemvalue="Application.Java_Loops_II" />
       </list>
     </recent_temporary>
   </component>
@@ -300,6 +309,16 @@
           <url>file://$PROJECT_DIR$/src/main/java/Miscallaneous/Java_Loops_II.java</url>
           <line>10</line>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week1_05_CamelCaseConversion.java</url>
+          <line>68</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week1_05_CamelCaseConversion.java</url>
+          <line>93</line>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
