@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7fd8dcf-bc07-4ecf-864d-e47fe1a126ad" name="Default Changelist" comment="Java Loops I &amp; Java Loops II exercises">
-      <change beforePath="$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/week1_timeConversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/week1_timeConversion.java" afterDir="false" />
-    </list>
+    <list default="true" id="b7fd8dcf-bc07-4ecf-864d-e47fe1a126ad" name="Default Changelist" comment="Java Loops I &amp; Java Loops II exercises" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,7 +54,7 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="debugger.stepping" />
   </component>
-  <component name="RunManager" selected="Application.Week1_05_CamelCaseConversion">
+  <component name="RunManager" selected="Application.Week1_06_Divisible_sum_pairs">
     <configuration name="Angrams" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="EasyLevel.Angrams" />
       <module name="HackerRank" />
@@ -140,8 +138,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Week1__Mini_Max_Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ThreeMonthPreparationKit.October_2022.Week1__Mini_Max_Sum" />
+    <configuration name="Week1_06_Divisible_sum_pairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThreeMonthPreparationKit.October_2022.Week1_06_Divisible_sum_pairs" />
       <module name="HackerRank" />
       <extension name="coverage">
         <pattern>
@@ -153,8 +151,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Week_1_PlusMinus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ThreeMonthPreparationKit.October_2022.Week_1_PlusMinus" />
+    <configuration name="Week1__Mini_Max_Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThreeMonthPreparationKit.October_2022.Week1__Mini_Max_Sum" />
       <module name="HackerRank" />
       <extension name="coverage">
         <pattern>
@@ -188,19 +186,19 @@
       <item itemvalue="Application.Palindrome" />
       <item itemvalue="Application.Angrams" />
       <item itemvalue="Application.JavaStringTokens" />
-      <item itemvalue="Application.Week_1_PlusMinus" />
       <item itemvalue="Application.Week1__Mini_Max_Sum" />
       <item itemvalue="Application.week1_timeConversion" />
       <item itemvalue="Application.Week1_04_BreakingRecord" />
       <item itemvalue="Application.Week1_05_CamelCaseConversion" />
+      <item itemvalue="Application.Week1_06_Divisible_sum_pairs" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Week1_06_Divisible_sum_pairs" />
         <item itemvalue="Application.Week1_05_CamelCaseConversion" />
         <item itemvalue="Application.Week1_04_BreakingRecord" />
         <item itemvalue="Application.week1_timeConversion" />
         <item itemvalue="Application.Week1__Mini_Max_Sum" />
-        <item itemvalue="Application.Week_1_PlusMinus" />
       </list>
     </recent_temporary>
   </component>
