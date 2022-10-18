@@ -41,7 +41,7 @@
  */
 
 
-package ThreeMonthPreparationKit.October_2022;
+package ThreeMonthPreparationKit.October_2022.Week1;
 
 import java.io.BufferedReader;
 import java.io.IOException;

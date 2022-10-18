@@ -98,11 +98,10 @@
  * 2
  */
 
-package ThreeMonthPreparationKit.October_2022;
+package ThreeMonthPreparationKit.October_2022.Week1;
 
 import java.io.BufferedReader;
 import java.io.IOException;
-import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.List;
