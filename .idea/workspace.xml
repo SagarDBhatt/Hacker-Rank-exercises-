@@ -59,7 +59,7 @@
       <recent name="$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EX05_CountingSort">
+  <component name="RunManager" selected="Application.EX06_CountingValley">
     <configuration name="Angrams" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="EasyLevel.Angrams" />
       <module name="HackerRank" />
@@ -100,8 +100,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex01_LonelyInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ThreeMonthPreparationKit.October_2022.Week2.Ex01_LonelyInteger" />
+    <configuration name="EX06_CountingValley" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThreeMonthPreparationKit.October_2022.Week2.EX06_CountingValley" />
       <module name="HackerRank" />
       <extension name="coverage">
         <pattern>
@@ -191,19 +191,19 @@
       <item itemvalue="Application.Palindrome" />
       <item itemvalue="Application.Angrams" />
       <item itemvalue="Application.JavaStringTokens" />
-      <item itemvalue="Application.Ex01_LonelyInteger" />
       <item itemvalue="Application.Ex02_RoundingGrades" />
       <item itemvalue="Application.Ex03_FlippingBits" />
       <item itemvalue="Application.EX04_DiagonalDifference" />
       <item itemvalue="Application.EX05_CountingSort" />
+      <item itemvalue="Application.EX06_CountingValley" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EX06_CountingValley" />
         <item itemvalue="Application.EX05_CountingSort" />
         <item itemvalue="Application.EX04_DiagonalDifference" />
         <item itemvalue="Application.Ex03_FlippingBits" />
         <item itemvalue="Application.Ex02_RoundingGrades" />
-        <item itemvalue="Application.Ex01_LonelyInteger" />
       </list>
     </recent_temporary>
   </component>
@@ -357,6 +357,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week2/EX05_CountingSort.java</url>
           <line>96</line>
           <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week2/EX06_CountingValley.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="23" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week1/Week1_07_SparsArrays.java</url>
