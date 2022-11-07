@@ -59,7 +59,7 @@
       <recent name="$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EX06_CountingValley">
+  <component name="RunManager" selected="Application.Week2_FinalTest">
     <configuration name="Angrams" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="EasyLevel.Angrams" />
       <module name="HackerRank" />
@@ -70,19 +70,6 @@
     <configuration name="DuplicateWords" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="EasyLevel.DuplicateWords" />
       <module name="HackerRank" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EX04_DiagonalDifference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ThreeMonthPreparationKit.October_2022.Week2.EX04_DiagonalDifference" />
-      <module name="HackerRank" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ThreeMonthPreparationKit.October_2022.Week2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -113,8 +100,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex02_RoundingGrades" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ThreeMonthPreparationKit.October_2022.Week2.Ex02_RoundingGrades" />
+    <configuration name="EX07_FindAngrams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThreeMonthPreparationKit.October_2022.Week2.EX07_FindAngrams" />
       <module name="HackerRank" />
       <extension name="coverage">
         <pattern>
@@ -126,8 +113,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex03_FlippingBits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ThreeMonthPreparationKit.October_2022.Week2.Ex03_FlippingBits" />
+    <configuration name="EX08_MarsExploration" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThreeMonthPreparationKit.October_2022.Week2.EX08_MarsExploration" />
       <module name="HackerRank" />
       <extension name="coverage">
         <pattern>
@@ -182,6 +169,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Week2_FinalTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThreeMonthPreparationKit.October_2022.Week2.Week2_FinalTest" />
+      <module name="HackerRank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ThreeMonthPreparationKit.October_2022.Week2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.PatternChecker" />
       <item itemvalue="Application.Remainder" />
@@ -191,19 +191,19 @@
       <item itemvalue="Application.Palindrome" />
       <item itemvalue="Application.Angrams" />
       <item itemvalue="Application.JavaStringTokens" />
-      <item itemvalue="Application.Ex02_RoundingGrades" />
-      <item itemvalue="Application.Ex03_FlippingBits" />
-      <item itemvalue="Application.EX04_DiagonalDifference" />
       <item itemvalue="Application.EX05_CountingSort" />
       <item itemvalue="Application.EX06_CountingValley" />
+      <item itemvalue="Application.EX07_FindAngrams" />
+      <item itemvalue="Application.EX08_MarsExploration" />
+      <item itemvalue="Application.Week2_FinalTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Week2_FinalTest" />
+        <item itemvalue="Application.EX08_MarsExploration" />
+        <item itemvalue="Application.EX07_FindAngrams" />
         <item itemvalue="Application.EX06_CountingValley" />
         <item itemvalue="Application.EX05_CountingSort" />
-        <item itemvalue="Application.EX04_DiagonalDifference" />
-        <item itemvalue="Application.Ex03_FlippingBits" />
-        <item itemvalue="Application.Ex02_RoundingGrades" />
       </list>
     </recent_temporary>
   </component>
@@ -362,6 +362,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week2/EX06_CountingValley.java</url>
           <line>46</line>
           <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week2/Week2_FinalTest.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="24" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week1/Week1_07_SparsArrays.java</url>
