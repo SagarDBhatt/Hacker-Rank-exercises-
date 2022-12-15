@@ -25,15 +25,18 @@ public class SortingOfCollectionUsingLambda {
 
         Collections.sort(employeeCollectionList, comparatorEmp);
 
+        System.out.println("Sorted Collection by Method 1!!!!");
+        System.out.println(employeeCollectionList);
+
         //METHOD 2: USING LAMBDA FUNCTION
         Comparator<EmployeeCollection> comparator = (EmployeeCollection e1, EmployeeCollection e2) -> {
-            return e1.getEmpName().compareTo(e2.getEmpName());
+            return e1.getEmpSalary() - e2.getEmpSalary();
         };
 
         Collections.sort(employeeCollectionList, comparator);
 
 
-        System.out.println("Sorted Collection!!!!");
+        System.out.println("Sorted Collection by method 2!!!!");
         System.out.println(employeeCollectionList);
     }
 }

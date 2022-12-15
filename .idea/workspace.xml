@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7fd8dcf-bc07-4ecf-864d-e47fe1a126ad" name="Default Changelist" comment="Java Loops I &amp; Java Loops II exercises">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Java8Features/AnonymousClass/AnonymousInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Java8Features/AnonymousClass/MainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Java8Features/AnonymousClass/functionalInterfaceCalc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Java8Features/Java8Features.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ThreeMonthPreparationKit/October_2022/Week2/ResultMatrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ThreeMonthPreparationKit/October_2022/Week2/ResultMatrix.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ThreeMonthPreparationKit/October_2022/Week2/Week2_FinalTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ThreeMonthPreparationKit/October_2022/Week2/Week2_FinalTest.class" afterDir="false" />
-    </list>
+    <list default="true" id="b7fd8dcf-bc07-4ecf-864d-e47fe1a126ad" name="Default Changelist" comment="Java Loops I &amp; Java Loops II exercises" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -235,6 +227,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+      <changelist id="563786a4-3d0b-4f5b-9292-37f215b31b96" name="Changes" comment="" />
       <created>1584394507643</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
