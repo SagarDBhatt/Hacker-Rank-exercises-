@@ -38,6 +38,13 @@ public class SortingOfCollectionUsingLambda {
 
         System.out.println("Sorted Collection by method 2!!!!");
         System.out.println(employeeCollectionList);
+
+        //METHOD 3: Method reference (Double colon :: )
+        Collections.sort(employeeCollectionList, Comparator.comparing(EmployeeCollection::getEmpSalary));
+
+        System.out.println("Sorted Collection by Method Reference OR Double Colon operator !!!!");
+        System.out.println(employeeCollectionList);
+
     }
 }
 

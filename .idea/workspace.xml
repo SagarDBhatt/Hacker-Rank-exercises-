@@ -61,7 +61,7 @@
       <recent name="$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SortingOfCollectionUsingLambda">
+  <component name="RunManager" selected="Application.EX01_PermutingArrays">
     <configuration name="Angrams" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="EasyLevel.Angrams" />
       <module name="HackerRank" />
@@ -76,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EX07_FindAngrams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ThreeMonthPreparationKit.October_2022.Week2.EX07_FindAngrams" />
+    <configuration name="EX01_PermutingArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThreeMonthPreparationKit.October_2022.Week3.EX01_PermutingArrays" />
       <module name="HackerRank" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ThreeMonthPreparationKit.October_2022.Week2.*" />
+          <option name="PATTERN" value="ThreeMonthPreparationKit.October_2022.Week3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -193,19 +193,19 @@
       <item itemvalue="Application.Palindrome" />
       <item itemvalue="Application.Angrams" />
       <item itemvalue="Application.JavaStringTokens" />
-      <item itemvalue="Application.EX07_FindAngrams" />
       <item itemvalue="Application.EX08_MarsExploration" />
       <item itemvalue="Application.Week2_FinalTest" />
       <item itemvalue="Application.MainClass" />
       <item itemvalue="Application.SortingOfCollectionUsingLambda" />
+      <item itemvalue="Application.EX01_PermutingArrays" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EX01_PermutingArrays" />
         <item itemvalue="Application.SortingOfCollectionUsingLambda" />
         <item itemvalue="Application.MainClass" />
         <item itemvalue="Application.Week2_FinalTest" />
         <item itemvalue="Application.EX08_MarsExploration" />
-        <item itemvalue="Application.EX07_FindAngrams" />
       </list>
     </recent_temporary>
   </component>
