@@ -61,7 +61,7 @@
       <recent name="$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EX01_PermutingArrays">
+  <component name="RunManager" selected="Application.EX02_SubarrayDivision">
     <configuration name="Angrams" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="EasyLevel.Angrams" />
       <module name="HackerRank" />
@@ -89,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EX08_MarsExploration" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ThreeMonthPreparationKit.October_2022.Week2.EX08_MarsExploration" />
+    <configuration name="EX02_SubarrayDivision" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThreeMonthPreparationKit.October_2022.Week3.EX02_SubarrayDivision" />
       <module name="HackerRank" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ThreeMonthPreparationKit.October_2022.Week2.*" />
+          <option name="PATTERN" value="ThreeMonthPreparationKit.October_2022.Week3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,6 +143,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PredicateExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java8Features.AnonymousClass_LambdaExpressions.PredicateExample" />
+      <module name="HackerRank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java8Features.AnonymousClass_LambdaExpressions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Remainder" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Miscallaneous.Remainder" />
       <module name="HackerRank" />
@@ -171,19 +184,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Week2_FinalTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ThreeMonthPreparationKit.October_2022.Week2.Week2_FinalTest" />
-      <module name="HackerRank" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ThreeMonthPreparationKit.October_2022.Week2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.PatternChecker" />
       <item itemvalue="Application.Remainder" />
@@ -193,19 +193,19 @@
       <item itemvalue="Application.Palindrome" />
       <item itemvalue="Application.Angrams" />
       <item itemvalue="Application.JavaStringTokens" />
-      <item itemvalue="Application.EX08_MarsExploration" />
-      <item itemvalue="Application.Week2_FinalTest" />
       <item itemvalue="Application.MainClass" />
       <item itemvalue="Application.SortingOfCollectionUsingLambda" />
       <item itemvalue="Application.EX01_PermutingArrays" />
+      <item itemvalue="Application.PredicateExample" />
+      <item itemvalue="Application.EX02_SubarrayDivision" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EX02_SubarrayDivision" />
+        <item itemvalue="Application.PredicateExample" />
         <item itemvalue="Application.EX01_PermutingArrays" />
         <item itemvalue="Application.SortingOfCollectionUsingLambda" />
         <item itemvalue="Application.MainClass" />
-        <item itemvalue="Application.Week2_FinalTest" />
-        <item itemvalue="Application.EX08_MarsExploration" />
       </list>
     </recent_temporary>
   </component>
@@ -371,6 +371,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week2/Week2_FinalTest.java</url>
           <line>33</line>
           <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week3/EX02_SubarrayDivision.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="26" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week1/Week1_07_SparsArrays.java</url>
