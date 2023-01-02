@@ -61,7 +61,7 @@
       <recent name="$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EX03_XOR_Strings">
+  <component name="RunManager" selected="Application.EX04_SalesByMatch">
     <configuration name="Angrams" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="EasyLevel.Angrams" />
       <module name="HackerRank" />
@@ -104,6 +104,19 @@
     </configuration>
     <configuration name="EX03_XOR_Strings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ThreeMonthPreparationKit.October_2022.Week3.EX03_XOR_Strings" />
+      <module name="HackerRank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ThreeMonthPreparationKit.October_2022.Week3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EX04_SalesByMatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThreeMonthPreparationKit.October_2022.Week3.EX04_SalesByMatch" />
       <module name="HackerRank" />
       <extension name="coverage">
         <pattern>
@@ -163,19 +176,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortingOfCollectionUsingLambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java8Features.AnonymousClass_LambdaExpressions.SortingOfCollectionUsingLambda" />
-      <module name="HackerRank" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Java8Features.AnonymousClass_LambdaExpressions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Substring Comparison" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="EasyLevel.JavaSubstringComparisons" />
       <module name="HackerRank" />
@@ -193,19 +193,19 @@
       <item itemvalue="Application.Palindrome" />
       <item itemvalue="Application.Angrams" />
       <item itemvalue="Application.JavaStringTokens" />
-      <item itemvalue="Application.SortingOfCollectionUsingLambda" />
       <item itemvalue="Application.EX01_PermutingArrays" />
       <item itemvalue="Application.PredicateExample" />
       <item itemvalue="Application.EX02_SubarrayDivision" />
       <item itemvalue="Application.EX03_XOR_Strings" />
+      <item itemvalue="Application.EX04_SalesByMatch" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EX04_SalesByMatch" />
         <item itemvalue="Application.EX03_XOR_Strings" />
         <item itemvalue="Application.EX02_SubarrayDivision" />
         <item itemvalue="Application.PredicateExample" />
         <item itemvalue="Application.EX01_PermutingArrays" />
-        <item itemvalue="Application.SortingOfCollectionUsingLambda" />
       </list>
     </recent_temporary>
   </component>
@@ -376,6 +376,16 @@
           <url>file://$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week3/EX02_SubarrayDivision.java</url>
           <line>23</line>
           <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week3/EX04_SalesByMatch.java</url>
+          <line>87</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week3/EX04_SalesByMatch.java</url>
+          <line>100</line>
+          <option name="timeStamp" value="28" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week1/Week1_07_SparsArrays.java</url>
