@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7fd8dcf-bc07-4ecf-864d-e47fe1a126ad" name="Default Changelist" comment="Java Loops I &amp; Java Loops II exercises" />
+    <list default="true" id="b7fd8dcf-bc07-4ecf-864d-e47fe1a126ad" name="Default Changelist" comment="Java Loops I &amp; Java Loops II exercises">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week3/EX05_MigratoryBirds.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThreeMonthPreparationKit/October_2022/Week3/ResultSockMerch.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ThreeMonthPreparationKit/October_2022/Week3/ResultSockMerch.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,7 +65,7 @@
       <recent name="$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EX04_SalesByMatch">
+  <component name="RunManager" selected="Application.EX06_MaxPerimeterTriangle">
     <configuration name="Angrams" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="EasyLevel.Angrams" />
       <module name="HackerRank" />
@@ -72,19 +76,6 @@
     <configuration name="DuplicateWords" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="EasyLevel.DuplicateWords" />
       <module name="HackerRank" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EX01_PermutingArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ThreeMonthPreparationKit.October_2022.Week3.EX01_PermutingArrays" />
-      <module name="HackerRank" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ThreeMonthPreparationKit.October_2022.Week3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -128,6 +119,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="EX05_MigratoryBirds" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThreeMonthPreparationKit.October_2022.Week3.EX05_MigratoryBirds" />
+      <module name="HackerRank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ThreeMonthPreparationKit.October_2022.Week3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EX06_MaxPerimeterTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThreeMonthPreparationKit.October_2022.Week3.EX06_MaxPerimeterTriangle" />
+      <module name="HackerRank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ThreeMonthPreparationKit.October_2022.Week3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="IpRegex" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="EasyLevel.IPregex" />
       <module name="HackerRank" />
@@ -156,19 +173,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PredicateExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java8Features.AnonymousClass_LambdaExpressions.PredicateExample" />
-      <module name="HackerRank" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Java8Features.AnonymousClass_LambdaExpressions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Remainder" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Miscallaneous.Remainder" />
       <module name="HackerRank" />
@@ -193,19 +197,19 @@
       <item itemvalue="Application.Palindrome" />
       <item itemvalue="Application.Angrams" />
       <item itemvalue="Application.JavaStringTokens" />
-      <item itemvalue="Application.EX01_PermutingArrays" />
-      <item itemvalue="Application.PredicateExample" />
       <item itemvalue="Application.EX02_SubarrayDivision" />
       <item itemvalue="Application.EX03_XOR_Strings" />
       <item itemvalue="Application.EX04_SalesByMatch" />
+      <item itemvalue="Application.EX05_MigratoryBirds" />
+      <item itemvalue="Application.EX06_MaxPerimeterTriangle" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EX06_MaxPerimeterTriangle" />
+        <item itemvalue="Application.EX05_MigratoryBirds" />
         <item itemvalue="Application.EX04_SalesByMatch" />
         <item itemvalue="Application.EX03_XOR_Strings" />
         <item itemvalue="Application.EX02_SubarrayDivision" />
-        <item itemvalue="Application.PredicateExample" />
-        <item itemvalue="Application.EX01_PermutingArrays" />
       </list>
     </recent_temporary>
   </component>
@@ -227,7 +231,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="563786a4-3d0b-4f5b-9292-37f215b31b96" name="Changes" comment="" />
+      <changelist id="fa8be120-5fce-4e4a-ad94-325a9c7cf9d6" name="Changes" comment="" />
       <created>1584394507643</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -384,8 +388,13 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week3/EX04_SalesByMatch.java</url>
-          <line>100</line>
+          <line>101</line>
           <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week3/EX05_MigratoryBirds.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="29" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week1/Week1_07_SparsArrays.java</url>
