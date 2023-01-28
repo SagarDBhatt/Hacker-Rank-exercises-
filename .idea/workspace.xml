@@ -65,7 +65,7 @@
       <recent name="$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EX07_ZigZagSequence">
+  <component name="RunManager" selected="Application.EX08_PageCount">
     <configuration name="Angrams" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="EasyLevel.Angrams" />
       <module name="HackerRank" />
@@ -76,19 +76,6 @@
     <configuration name="DuplicateWords" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="EasyLevel.DuplicateWords" />
       <module name="HackerRank" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EX03_XOR_Strings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ThreeMonthPreparationKit.October_2022.Week3.EX03_XOR_Strings" />
-      <module name="HackerRank" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ThreeMonthPreparationKit.October_2022.Week3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -134,6 +121,19 @@
     </configuration>
     <configuration name="EX07_ZigZagSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ThreeMonthPreparationKit.October_2022.Week3.EX07_ZigZagSequence" />
+      <module name="HackerRank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ThreeMonthPreparationKit.October_2022.Week3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EX08_PageCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThreeMonthPreparationKit.October_2022.Week3.EX08_PageCount" />
       <module name="HackerRank" />
       <extension name="coverage">
         <pattern>
@@ -197,19 +197,19 @@
       <item itemvalue="Application.Palindrome" />
       <item itemvalue="Application.Angrams" />
       <item itemvalue="Application.JavaStringTokens" />
-      <item itemvalue="Application.EX03_XOR_Strings" />
       <item itemvalue="Application.EX04_SalesByMatch" />
       <item itemvalue="Application.EX05_MigratoryBirds" />
       <item itemvalue="Application.EX06_MaxPerimeterTriangle" />
       <item itemvalue="Application.EX07_ZigZagSequence" />
+      <item itemvalue="Application.EX08_PageCount" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EX08_PageCount" />
         <item itemvalue="Application.EX07_ZigZagSequence" />
         <item itemvalue="Application.EX06_MaxPerimeterTriangle" />
         <item itemvalue="Application.EX05_MigratoryBirds" />
         <item itemvalue="Application.EX04_SalesByMatch" />
-        <item itemvalue="Application.EX03_XOR_Strings" />
       </list>
     </recent_temporary>
   </component>
