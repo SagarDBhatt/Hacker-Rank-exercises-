@@ -80,15 +80,6 @@ public class Ex02_LeftRotation {
 class ResultLeftRotate{
     public static List<Integer> rotateLeft(int d, List<Integer> arr){
 
-//        for(int i = 0; i < leftRotate; i++){
-//            int temp = arraylist.get(0);
-//
-//            for(int j = 0; j < arraylist.size()-1; j++){
-//                arraylist.set(j, arraylist.get(j+1));
-//            }//EOF J
-//
-//            arraylist.set(arraylist.size()-1, temp);
-//        }//EOF I
         IntStream.range(0, d).forEach(i -> { arr.add(arr.get(0)); arr.remove(0); });
 
         return arr;
