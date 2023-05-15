@@ -46,7 +46,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
 
-public class Ex04_NumberLineJumps {
+public class Ex03_NumberLineJumps {
 
     public static void main(String[] args) throws IOException {
 
