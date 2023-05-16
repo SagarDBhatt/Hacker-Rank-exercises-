@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7fd8dcf-bc07-4ecf-864d-e47fe1a126ad" name="Default Changelist" comment="Java Loops I &amp; Java Loops II exercises">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week4/EX01_PickingNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week4/EX04_SeparateTheNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week4/EX05_ClosestNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week4/Ex04_NumberLineJumps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week4/Ex03_NumberLineJumps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week4/PickingNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week4/PickingNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ThreeMonthPreparationKit/October_2022/Week4/Ex04_NumberLineJumps.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ThreeMonthPreparationKit/October_2022/Week4/PickingNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ThreeMonthPreparationKit/October_2022/Week4/PickingNumbers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ThreeMonthPreparationKit/October_2022/Week4/ResultKangaroo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ThreeMonthPreparationKit/October_2022/Week4/ResultKangaroo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ThreeMonthPreparationKit/October_2022/Week4/ResultPickingupNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ThreeMonthPreparationKit/October_2022/Week4/ResultPickingupNumber.class" afterDir="false" />
-    </list>
+    <list default="true" id="b7fd8dcf-bc07-4ecf-864d-e47fe1a126ad" name="Default Changelist" comment="Java Loops I &amp; Java Loops II exercises" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -238,7 +227,6 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="fecc9f6d-fd6a-45ba-bd4a-babe2e97c407" name="Changes" comment="" />
       <created>1584394507643</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
