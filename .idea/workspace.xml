@@ -61,7 +61,7 @@
       <recent name="$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EX09_CaeserCipher">
+  <component name="RunManager" selected="Application.FinalExam_Week04">
     <configuration name="Angrams" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="EasyLevel.Angrams" />
       <module name="HackerRank" />
@@ -128,8 +128,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex04_NumberLineJumps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ThreeMonthPreparationKit.October_2022.Week4.Ex04_NumberLineJumps" />
+    <configuration name="FinalExam_Week04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThreeMonthPreparationKit.October_2022.Week4.FinalExam_Week04" />
       <module name="HackerRank" />
       <extension name="coverage">
         <pattern>
@@ -193,19 +193,19 @@
       <item itemvalue="Application.Palindrome" />
       <item itemvalue="Application.Angrams" />
       <item itemvalue="Application.JavaStringTokens" />
-      <item itemvalue="Application.Ex04_NumberLineJumps" />
       <item itemvalue="Application.EX04_SeparateTheNumbers" />
       <item itemvalue="Application.EX05_ClosestNumber" />
       <item itemvalue="Application.EX08_FindAbsoluteDifference" />
       <item itemvalue="Application.EX09_CaeserCipher" />
+      <item itemvalue="Application.FinalExam_Week04" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FinalExam_Week04" />
         <item itemvalue="Application.EX09_CaeserCipher" />
         <item itemvalue="Application.EX08_FindAbsoluteDifference" />
         <item itemvalue="Application.EX05_ClosestNumber" />
         <item itemvalue="Application.EX04_SeparateTheNumbers" />
-        <item itemvalue="Application.Ex04_NumberLineJumps" />
       </list>
     </recent_temporary>
   </component>
@@ -227,6 +227,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+      <changelist id="09e10cd4-8359-4a0a-a60b-c6a22932aa83" name="Changes" comment="" />
       <created>1584394507643</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -426,6 +427,11 @@
           <line>51</line>
           <option name="timeStamp" value="38" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week4/FinalExam_Week04.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week1/Week1_07_SparsArrays.java</url>
           <line>136</line>
@@ -438,8 +444,7 @@
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
-        <watch expression="s.charAt(i)" language="JAVA" />
-        <watch expression="(int) s.charAt(i) + shift" language="JAVA" />
+        <watch expression="subStr.charAt(i)" language="JAVA" />
       </configuration>
     </watches-manager>
   </component>
