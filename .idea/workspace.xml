@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b7fd8dcf-bc07-4ecf-864d-e47fe1a126ad" name="Default Changelist" comment="Java Loops I &amp; Java Loops II exercises">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week5/EX02_StrongPassword.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThreeMonthPreparationKit/October_2022/Week5/findMinMaxClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ThreeMonthPreparationKit/October_2022/Week5/findMinMaxClass.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +53,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Certifications/Udemy/REST-api/Udemy-RESTful-Webservies-with-Spring-Framework" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -63,7 +65,7 @@
       <recent name="$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EX01_MinMax">
+  <component name="RunManager" selected="Application.EX02_StrongPassword">
     <configuration name="Angrams" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="EasyLevel.Angrams" />
       <module name="HackerRank" />
@@ -91,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EX05_ClosestNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ThreeMonthPreparationKit.October_2022.Week4.EX05_ClosestNumber" />
+    <configuration name="EX02_StrongPassword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThreeMonthPreparationKit.October_2022.Week5.EX02_StrongPassword" />
       <module name="HackerRank" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ThreeMonthPreparationKit.October_2022.Week4.*" />
+          <option name="PATTERN" value="ThreeMonthPreparationKit.October_2022.Week5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -195,19 +197,19 @@
       <item itemvalue="Application.Palindrome" />
       <item itemvalue="Application.Angrams" />
       <item itemvalue="Application.JavaStringTokens" />
-      <item itemvalue="Application.EX05_ClosestNumber" />
       <item itemvalue="Application.EX08_FindAbsoluteDifference" />
       <item itemvalue="Application.EX09_CaeserCipher" />
       <item itemvalue="Application.FinalExam_Week04" />
       <item itemvalue="Application.EX01_MinMax" />
+      <item itemvalue="Application.EX02_StrongPassword" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EX02_StrongPassword" />
         <item itemvalue="Application.EX01_MinMax" />
         <item itemvalue="Application.FinalExam_Week04" />
         <item itemvalue="Application.EX09_CaeserCipher" />
         <item itemvalue="Application.EX08_FindAbsoluteDifference" />
-        <item itemvalue="Application.EX05_ClosestNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -229,7 +231,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="dd6ac158-7431-46f3-8077-ee8ee53e648c" name="Changes" comment="" />
+      <changelist id="880b5ba2-f46f-4a11-99bb-0c3883cc7db0" name="Changes" comment="" />
       <created>1584394507643</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -438,6 +440,16 @@
           <url>file://$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week5/EX01_MinMax.java</url>
           <line>82</line>
           <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week5/EX02_StrongPassword.java</url>
+          <line>95</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week5/EX02_StrongPassword.java</url>
+          <line>68</line>
+          <option name="timeStamp" value="46" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week1/Week1_07_SparsArrays.java</url>
