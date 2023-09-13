@@ -65,7 +65,7 @@
       <recent name="$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EX02_StrongPassword">
+  <component name="RunManager" selected="Application.EX03_DynamicArray">
     <configuration name="Angrams" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="EasyLevel.Angrams" />
       <module name="HackerRank" />
@@ -106,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EX08_FindAbsoluteDifference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ThreeMonthPreparationKit.October_2022.Week4.EX08_FindAbsoluteDifference" />
+    <configuration name="EX03_DynamicArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThreeMonthPreparationKit.October_2022.Week5.EX03_DynamicArray" />
       <module name="HackerRank" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ThreeMonthPreparationKit.October_2022.Week4.*" />
+          <option name="PATTERN" value="ThreeMonthPreparationKit.October_2022.Week5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -197,19 +197,19 @@
       <item itemvalue="Application.Palindrome" />
       <item itemvalue="Application.Angrams" />
       <item itemvalue="Application.JavaStringTokens" />
-      <item itemvalue="Application.EX08_FindAbsoluteDifference" />
       <item itemvalue="Application.EX09_CaeserCipher" />
       <item itemvalue="Application.FinalExam_Week04" />
       <item itemvalue="Application.EX01_MinMax" />
       <item itemvalue="Application.EX02_StrongPassword" />
+      <item itemvalue="Application.EX03_DynamicArray" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EX03_DynamicArray" />
         <item itemvalue="Application.EX02_StrongPassword" />
         <item itemvalue="Application.EX01_MinMax" />
         <item itemvalue="Application.FinalExam_Week04" />
         <item itemvalue="Application.EX09_CaeserCipher" />
-        <item itemvalue="Application.EX08_FindAbsoluteDifference" />
       </list>
     </recent_temporary>
   </component>
