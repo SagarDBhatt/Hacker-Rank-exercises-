@@ -1,9 +1,5 @@
 # Hacker-Rank-exercises
 
-Contains code for each Hacker rank test starting from beginner level. 
-
-+++++++++++++++++++++++++++++
-
-stdin and out deployed
+Java HackerRank Exercises for the 3 Months preparation course. 
 
 
