@@ -193,17 +193,17 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.PatternChecker" />
-      <item itemvalue="Application.Remainder" />
-      <item itemvalue="Application.IpRegex" />
-      <item itemvalue="Application.DuplicateWords" />
-      <item itemvalue="Application.Substring Comparison" />
-      <item itemvalue="Application.Palindrome" />
       <item itemvalue="Application.Angrams" />
-      <item itemvalue="Application.JavaStringTokens" />
+      <item itemvalue="Application.DuplicateWords" />
       <item itemvalue="Application.EX06_FullCountingSort" />
       <item itemvalue="Application.EX07_GridChallenge" />
       <item itemvalue="Application.EX08_XOR" />
+      <item itemvalue="Application.IpRegex" />
+      <item itemvalue="Application.JavaStringTokens" />
+      <item itemvalue="Application.Palindrome" />
+      <item itemvalue="Application.PatternChecker" />
+      <item itemvalue="Application.Remainder" />
+      <item itemvalue="Application.Substring Comparison" />
       <item itemvalue="Application.Week5Final" />
       <item itemvalue="Application.Week6_Ex1_PrimeDates" />
     </list>
