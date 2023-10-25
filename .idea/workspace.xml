@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7fd8dcf-bc07-4ecf-864d-e47fe1a126ad" name="Default Changelist" comment="Java Loops I &amp; Java Loops II exercises" />
+    <list default="true" id="b7fd8dcf-bc07-4ecf-864d-e47fe1a126ad" name="Default Changelist" comment="Java Loops I &amp; Java Loops II exercises">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week6/Week06_Ex02_Sherlock_Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThreeMonthPreparationKit/October_2022/Week6/LuckyDate.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ThreeMonthPreparationKit/October_2022/Week6/LuckyDate.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,7 +73,7 @@
       <recent name="$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Week6_Ex1_PrimeDates">
+  <component name="RunManager" selected="Application.Week06_Ex02_Sherlock_Array">
     <configuration name="Angrams" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="EasyLevel.Angrams" />
       <module name="HackerRank" />
@@ -80,19 +84,6 @@
     <configuration name="DuplicateWords" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="EasyLevel.DuplicateWords" />
       <module name="HackerRank" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EX06_FullCountingSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ThreeMonthPreparationKit.October_2022.Week5.EX06_FullCountingSort" />
-      <module name="HackerRank" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ThreeMonthPreparationKit.October_2022.Week5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -166,6 +157,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Week06_Ex02_Sherlock_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThreeMonthPreparationKit.October_2022.Week6.Week06_Ex02_Sherlock_Array" />
+      <module name="HackerRank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ThreeMonthPreparationKit.October_2022.Week6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Week5Final" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ThreeMonthPreparationKit.October_2022.Week5.Week5Final" />
       <module name="HackerRank" />
@@ -193,27 +197,27 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Angrams" />
-      <item itemvalue="Application.DuplicateWords" />
-      <item itemvalue="Application.EX06_FullCountingSort" />
-      <item itemvalue="Application.EX07_GridChallenge" />
-      <item itemvalue="Application.EX08_XOR" />
-      <item itemvalue="Application.IpRegex" />
-      <item itemvalue="Application.JavaStringTokens" />
-      <item itemvalue="Application.Palindrome" />
       <item itemvalue="Application.PatternChecker" />
       <item itemvalue="Application.Remainder" />
+      <item itemvalue="Application.IpRegex" />
+      <item itemvalue="Application.DuplicateWords" />
       <item itemvalue="Application.Substring Comparison" />
+      <item itemvalue="Application.Palindrome" />
+      <item itemvalue="Application.Angrams" />
+      <item itemvalue="Application.JavaStringTokens" />
+      <item itemvalue="Application.EX07_GridChallenge" />
+      <item itemvalue="Application.EX08_XOR" />
       <item itemvalue="Application.Week5Final" />
       <item itemvalue="Application.Week6_Ex1_PrimeDates" />
+      <item itemvalue="Application.Week06_Ex02_Sherlock_Array" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Week06_Ex02_Sherlock_Array" />
         <item itemvalue="Application.Week6_Ex1_PrimeDates" />
         <item itemvalue="Application.Week5Final" />
         <item itemvalue="Application.EX08_XOR" />
         <item itemvalue="Application.EX07_GridChallenge" />
-        <item itemvalue="Application.EX06_FullCountingSort" />
       </list>
     </recent_temporary>
   </component>
@@ -235,7 +239,6 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c99ab41f-9acf-4ad6-8034-89f8ebc3b476" name="Changes" comment="" />
       <created>1584394507643</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -484,6 +487,26 @@
           <url>file://$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week6/Week6_Ex1_PrimeDates.java</url>
           <line>93</line>
           <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week6/Week06_Ex02_Sherlock_Array.java</url>
+          <line>143</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week6/Week06_Ex02_Sherlock_Array.java</url>
+          <line>71</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week6/Week06_Ex02_Sherlock_Array.java</url>
+          <line>121</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week6/Week06_Ex02_Sherlock_Array.java</url>
+          <line>86</line>
+          <option name="timeStamp" value="63" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week1/Week1_07_SparsArrays.java</url>
