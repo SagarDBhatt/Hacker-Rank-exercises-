@@ -69,7 +69,7 @@
       <recent name="$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EX03_MisereNimGame">
+  <component name="RunManager" selected="Application.Ex04_GamingArray">
     <configuration name="Angrams" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="EasyLevel.Angrams" />
       <module name="HackerRank" />
@@ -97,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EX08_XOR" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ThreeMonthPreparationKit.October_2022.Week5.EX08_XOR" />
+    <configuration name="Ex04_GamingArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThreeMonthPreparationKit.October_2022.Week6.Ex04_GamingArray" />
       <module name="HackerRank" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ThreeMonthPreparationKit.October_2022.Week5.*" />
+          <option name="PATTERN" value="ThreeMonthPreparationKit.October_2022.Week6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -201,19 +201,19 @@
       <item itemvalue="Application.Palindrome" />
       <item itemvalue="Application.Angrams" />
       <item itemvalue="Application.JavaStringTokens" />
-      <item itemvalue="Application.EX08_XOR" />
       <item itemvalue="Application.Week5Final" />
       <item itemvalue="Application.Week6_Ex1_PrimeDates" />
       <item itemvalue="Application.Week06_Ex02_Sherlock_Array" />
       <item itemvalue="Application.EX03_MisereNimGame" />
+      <item itemvalue="Application.Ex04_GamingArray" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex04_GamingArray" />
         <item itemvalue="Application.EX03_MisereNimGame" />
         <item itemvalue="Application.Week06_Ex02_Sherlock_Array" />
         <item itemvalue="Application.Week6_Ex1_PrimeDates" />
         <item itemvalue="Application.Week5Final" />
-        <item itemvalue="Application.EX08_XOR" />
       </list>
     </recent_temporary>
   </component>
@@ -235,7 +235,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6019338a-88a2-449a-9852-b7dfb7ad08f7" name="Changes" comment="" />
+      <changelist id="607070a8-d1cc-4ae4-b481-47ee4638007d" name="Changes" comment="" />
       <created>1584394507643</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -504,6 +504,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week6/Week06_Ex02_Sherlock_Array.java</url>
           <line>86</line>
           <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week6/Ex04_GamingArray.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="64" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week1/Week1_07_SparsArrays.java</url>
