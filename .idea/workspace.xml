@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7fd8dcf-bc07-4ecf-864d-e47fe1a126ad" name="Default Changelist" comment="Java Loops I &amp; Java Loops II exercises">
-      <change afterPath="$PROJECT_DIR$/src/main/java/CodingInteview/GenerateInvoice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CodingInteview/WovenCodingInteviewToCalcInvoice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b7fd8dcf-bc07-4ecf-864d-e47fe1a126ad" name="Default Changelist" comment="Java Loops I &amp; Java Loops II exercises" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,7 +69,7 @@
       <recent name="$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.WovenCodingInteviewToCalcInvoice">
+  <component name="RunManager" selected="Application.EX05_MagicSquare">
     <configuration name="Angrams" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="EasyLevel.Angrams" />
       <module name="HackerRank" />
@@ -92,6 +86,19 @@
     </configuration>
     <configuration name="EX03_MisereNimGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ThreeMonthPreparationKit.October_2022.Week6.EX03_MisereNimGame" />
+      <module name="HackerRank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ThreeMonthPreparationKit.October_2022.Week6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EX05_MagicSquare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThreeMonthPreparationKit.October_2022.Week6.EX05_MagicSquare" />
       <module name="HackerRank" />
       <extension name="coverage">
         <pattern>
@@ -172,19 +179,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Week06_Ex02_Sherlock_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ThreeMonthPreparationKit.October_2022.Week6.Week06_Ex02_Sherlock_Array" />
-      <module name="HackerRank" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ThreeMonthPreparationKit.October_2022.Week6.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="WovenCodingInteviewToCalcInvoice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CodingInteview.WovenCodingInteviewToCalcInvoice" />
       <module name="HackerRank" />
@@ -207,19 +201,19 @@
       <item itemvalue="Application.Palindrome" />
       <item itemvalue="Application.Angrams" />
       <item itemvalue="Application.JavaStringTokens" />
-      <item itemvalue="Application.Week06_Ex02_Sherlock_Array" />
       <item itemvalue="Application.EX03_MisereNimGame" />
       <item itemvalue="Application.Ex04_GamingArray" />
       <item itemvalue="Application.GenerateInvoice" />
       <item itemvalue="Application.WovenCodingInteviewToCalcInvoice" />
+      <item itemvalue="Application.EX05_MagicSquare" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EX05_MagicSquare" />
         <item itemvalue="Application.WovenCodingInteviewToCalcInvoice" />
         <item itemvalue="Application.GenerateInvoice" />
         <item itemvalue="Application.Ex04_GamingArray" />
         <item itemvalue="Application.EX03_MisereNimGame" />
-        <item itemvalue="Application.Week06_Ex02_Sherlock_Array" />
       </list>
     </recent_temporary>
   </component>
@@ -241,7 +235,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="783cc759-0532-43d6-9ca2-3be3b007fb4f" name="Changes" comment="" />
+      <changelist id="61db5fec-0f62-4427-9644-5cde8a8f51b4" name="Changes" comment="" />
       <created>1584394507643</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -521,6 +515,16 @@
           <line>69</line>
           <option name="timeStamp" value="70" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week6/EX05_MagicSquare.java</url>
+          <line>92</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week6/EX05_MagicSquare.java</url>
+          <line>85</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week1/Week1_07_SparsArrays.java</url>
           <line>136</line>
@@ -531,6 +535,12 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="simplifiedInputArray.get(j)" language="JAVA" />
+        <watch expression="squares[i][j]" language="JAVA" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/HackerRank$Week3_FinalTest.ic" NAME="Week3_FinalTest Coverage Results" MODIFIED="1678729207277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
