@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7fd8dcf-bc07-4ecf-864d-e47fe1a126ad" name="Default Changelist" comment="Java Loops I &amp; Java Loops II exercises">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b7fd8dcf-bc07-4ecf-864d-e47fe1a126ad" name="Default Changelist" comment="Java Loops I &amp; Java Loops II exercises" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,7 +69,7 @@
       <recent name="$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EX06_PlusMinus">
+  <component name="RunManager" selected="Application.EX07_FindSuperDigit">
     <configuration name="Angrams" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="EasyLevel.Angrams" />
       <module name="HackerRank" />
@@ -112,8 +110,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex04_GamingArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ThreeMonthPreparationKit.October_2022.Week6.Ex04_GamingArray" />
+    <configuration name="EX07_FindSuperDigit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThreeMonthPreparationKit.October_2022.Week6.EX07_FindSuperDigit" />
       <module name="HackerRank" />
       <extension name="coverage">
         <pattern>
@@ -203,19 +201,19 @@
       <item itemvalue="Application.Palindrome" />
       <item itemvalue="Application.Angrams" />
       <item itemvalue="Application.JavaStringTokens" />
-      <item itemvalue="Application.Ex04_GamingArray" />
       <item itemvalue="Application.GenerateInvoice" />
       <item itemvalue="Application.WovenCodingInteviewToCalcInvoice" />
       <item itemvalue="Application.EX05_MagicSquare" />
       <item itemvalue="Application.EX06_PlusMinus" />
+      <item itemvalue="Application.EX07_FindSuperDigit" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EX07_FindSuperDigit" />
         <item itemvalue="Application.EX06_PlusMinus" />
         <item itemvalue="Application.EX05_MagicSquare" />
         <item itemvalue="Application.WovenCodingInteviewToCalcInvoice" />
         <item itemvalue="Application.GenerateInvoice" />
-        <item itemvalue="Application.Ex04_GamingArray" />
       </list>
     </recent_temporary>
   </component>
@@ -237,7 +235,6 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9534a415-79c3-4596-92d1-2403c2d28659" name="Changes" comment="" />
       <created>1584394507643</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -531,6 +528,26 @@
           <url>file://$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week6/EX06_PlusMinus.java</url>
           <line>43</line>
           <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week6/EX07_FindSuperDigit.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week6/EX07_FindSuperDigit.java</url>
+          <line>77</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week6/EX07_FindSuperDigit.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week6/EX07_FindSuperDigit.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="81" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week1/Week1_07_SparsArrays.java</url>
