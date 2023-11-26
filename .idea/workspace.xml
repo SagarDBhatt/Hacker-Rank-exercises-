@@ -69,7 +69,7 @@
       <recent name="$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EX08_CounterGame">
+  <component name="RunManager" selected="Application.EX09_XORvsSum">
     <configuration name="Angrams" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="EasyLevel.Angrams" />
       <module name="HackerRank" />
@@ -136,6 +136,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="EX09_XORvsSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThreeMonthPreparationKit.October_2022.Week6.EX09_XORvsSum" />
+      <module name="HackerRank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ThreeMonthPreparationKit.October_2022.Week6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="IpRegex" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="EasyLevel.IPregex" />
       <module name="HackerRank" />
@@ -179,19 +192,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WovenCodingInteviewToCalcInvoice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CodingInteview.WovenCodingInteviewToCalcInvoice" />
-      <module name="HackerRank" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="CodingInteview.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.PatternChecker" />
       <item itemvalue="Application.Remainder" />
@@ -201,19 +201,19 @@
       <item itemvalue="Application.Palindrome" />
       <item itemvalue="Application.Angrams" />
       <item itemvalue="Application.JavaStringTokens" />
-      <item itemvalue="Application.WovenCodingInteviewToCalcInvoice" />
       <item itemvalue="Application.EX05_MagicSquare" />
       <item itemvalue="Application.EX06_PlusMinus" />
       <item itemvalue="Application.EX07_FindSuperDigit" />
       <item itemvalue="Application.EX08_CounterGame" />
+      <item itemvalue="Application.EX09_XORvsSum" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EX09_XORvsSum" />
         <item itemvalue="Application.EX08_CounterGame" />
         <item itemvalue="Application.EX07_FindSuperDigit" />
         <item itemvalue="Application.EX06_PlusMinus" />
         <item itemvalue="Application.EX05_MagicSquare" />
-        <item itemvalue="Application.WovenCodingInteviewToCalcInvoice" />
       </list>
     </recent_temporary>
   </component>
