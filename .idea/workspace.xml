@@ -69,7 +69,7 @@
       <recent name="$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EX09_XORvsSum">
+  <component name="RunManager" selected="Application.MockTest_Week6">
     <configuration name="Angrams" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="EasyLevel.Angrams" />
       <module name="HackerRank" />
@@ -80,19 +80,6 @@
     <configuration name="DuplicateWords" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="EasyLevel.DuplicateWords" />
       <module name="HackerRank" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EX05_MagicSquare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ThreeMonthPreparationKit.October_2022.Week6.EX05_MagicSquare" />
-      <module name="HackerRank" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ThreeMonthPreparationKit.October_2022.Week6.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -163,6 +150,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MockTest_Week6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThreeMonthPreparationKit.October_2022.Week6.MockTest_Week6" />
+      <module name="HackerRank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ThreeMonthPreparationKit.October_2022.Week6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Palindrome" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="EasyLevel.Palindrome" />
       <module name="HackerRank" />
@@ -201,19 +201,19 @@
       <item itemvalue="Application.Palindrome" />
       <item itemvalue="Application.Angrams" />
       <item itemvalue="Application.JavaStringTokens" />
-      <item itemvalue="Application.EX05_MagicSquare" />
       <item itemvalue="Application.EX06_PlusMinus" />
       <item itemvalue="Application.EX07_FindSuperDigit" />
       <item itemvalue="Application.EX08_CounterGame" />
       <item itemvalue="Application.EX09_XORvsSum" />
+      <item itemvalue="Application.MockTest_Week6" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MockTest_Week6" />
         <item itemvalue="Application.EX09_XORvsSum" />
         <item itemvalue="Application.EX08_CounterGame" />
         <item itemvalue="Application.EX07_FindSuperDigit" />
         <item itemvalue="Application.EX06_PlusMinus" />
-        <item itemvalue="Application.EX05_MagicSquare" />
       </list>
     </recent_temporary>
   </component>
@@ -235,7 +235,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="69e1a7a2-43e6-4332-a13f-151255750276" name="Changes" comment="" />
+      <changelist id="f2af92f3-a955-4b3a-a72d-963f859f86a5" name="Changes" comment="" />
       <created>1584394507643</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -560,6 +560,11 @@
           <line>39</line>
           <option name="timeStamp" value="83" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week6/MockTest_Week6.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week1/Week1_07_SparsArrays.java</url>
           <line>136</line>
@@ -570,6 +575,12 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="s.substring(i+1)" language="JAVA" />
+        <watch expression="s.substring(0,i)" language="JAVA" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/HackerRank$Week3_FinalTest.ic" NAME="Week3_FinalTest Coverage Results" MODIFIED="1678729207277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
