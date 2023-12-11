@@ -69,7 +69,7 @@
       <recent name="$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EX4_SherlockandValidString">
+  <component name="RunManager" selected="Application.Ex5_ClimbingtTheLeaderBoard">
     <configuration name="Angrams" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="EasyLevel.Angrams" />
       <module name="HackerRank" />
@@ -80,19 +80,6 @@
     <configuration name="DuplicateWords" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="EasyLevel.DuplicateWords" />
       <module name="HackerRank" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EX09_XORvsSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ThreeMonthPreparationKit.October_2022.Week6.EX09_XORvsSum" />
-      <module name="HackerRank" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ThreeMonthPreparationKit.October_2022.Week6.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -125,6 +112,19 @@
     </configuration>
     <configuration name="Ex2_NewYearChaos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ThreeMonthPreparationKit.October_2022.Week7.Ex2_NewYearChaos" />
+      <module name="HackerRank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ThreeMonthPreparationKit.October_2022.Week7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex5_ClimbingtTheLeaderBoard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThreeMonthPreparationKit.October_2022.Week7.Ex5_ClimbingtTheLeaderBoard" />
       <module name="HackerRank" />
       <extension name="coverage">
         <pattern>
@@ -201,19 +201,19 @@
       <item itemvalue="Application.Palindrome" />
       <item itemvalue="Application.Angrams" />
       <item itemvalue="Application.JavaStringTokens" />
-      <item itemvalue="Application.EX09_XORvsSum" />
       <item itemvalue="Application.MockTest_Week6" />
       <item itemvalue="Application.Ex2_NewYearChaos" />
       <item itemvalue="Application.EX3_GoodLandElectricity" />
       <item itemvalue="Application.EX4_SherlockandValidString" />
+      <item itemvalue="Application.Ex5_ClimbingtTheLeaderBoard" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex5_ClimbingtTheLeaderBoard" />
         <item itemvalue="Application.EX4_SherlockandValidString" />
         <item itemvalue="Application.EX3_GoodLandElectricity" />
         <item itemvalue="Application.Ex2_NewYearChaos" />
         <item itemvalue="Application.MockTest_Week6" />
-        <item itemvalue="Application.EX09_XORvsSum" />
       </list>
     </recent_temporary>
   </component>
@@ -235,7 +235,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="97870924-36f5-464d-a992-94c0176116aa" name="Changes" comment="" />
+      <changelist id="aa18fe6b-1c61-4424-8fe5-3c86e7bb37f4" name="Changes" comment="" />
       <created>1584394507643</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -614,6 +614,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week7/EX4_SherlockandValidString.java</url>
           <line>98</line>
           <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week7/Ex5_ClimbingtTheLeaderBoard.java</url>
+          <line>99</line>
+          <option name="timeStamp" value="111" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week1/Week1_07_SparsArrays.java</url>
