@@ -69,7 +69,7 @@
       <recent name="$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Week7_FinalTest">
+  <component name="RunManager" selected="Application.IcecreamParlor">
     <configuration name="Angrams" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="EasyLevel.Angrams" />
       <module name="HackerRank" />
@@ -110,8 +110,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex2_NewYearChaos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ThreeMonthPreparationKit.October_2022.Week7.Ex2_NewYearChaos" />
+    <configuration name="Ex5_ClimbingtTheLeaderBoard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThreeMonthPreparationKit.October_2022.Week7.Ex5_ClimbingtTheLeaderBoard" />
       <module name="HackerRank" />
       <extension name="coverage">
         <pattern>
@@ -123,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex5_ClimbingtTheLeaderBoard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ThreeMonthPreparationKit.October_2022.Week7.Ex5_ClimbingtTheLeaderBoard" />
+    <configuration name="IcecreamParlor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThreeMonthPreparationKit.October_2022.Week8.IcecreamParlor" />
       <module name="HackerRank" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ThreeMonthPreparationKit.October_2022.Week7.*" />
+          <option name="PATTERN" value="ThreeMonthPreparationKit.October_2022.Week8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -201,19 +201,19 @@
       <item itemvalue="Application.Palindrome" />
       <item itemvalue="Application.Angrams" />
       <item itemvalue="Application.JavaStringTokens" />
-      <item itemvalue="Application.Ex2_NewYearChaos" />
       <item itemvalue="Application.EX3_GoodLandElectricity" />
       <item itemvalue="Application.EX4_SherlockandValidString" />
       <item itemvalue="Application.Ex5_ClimbingtTheLeaderBoard" />
       <item itemvalue="Application.Week7_FinalTest" />
+      <item itemvalue="Application.IcecreamParlor" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IcecreamParlor" />
         <item itemvalue="Application.Week7_FinalTest" />
         <item itemvalue="Application.Ex5_ClimbingtTheLeaderBoard" />
         <item itemvalue="Application.EX4_SherlockandValidString" />
         <item itemvalue="Application.EX3_GoodLandElectricity" />
-        <item itemvalue="Application.Ex2_NewYearChaos" />
       </list>
     </recent_temporary>
   </component>
@@ -235,6 +235,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+      <changelist id="3b12f988-1eef-45d9-8ce2-9dc878f93870" name="Changes" comment="" />
       <created>1584394507643</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />

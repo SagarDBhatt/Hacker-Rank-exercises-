@@ -14,6 +14,7 @@ public class Week7_FinalTest {
                 , "3", "31415926535897932384626433832795"
                 ,"581194376","6402415616","8931048918", "51", "52", "53", "44","82"
         ,"91478800","63593696","86212388"));
+
 //
 //        System.out.println(ResultFindBigSort.bigSorting(inputStr));
 //        System.out.println(ResultFindBigSort.bigSorting2(inputStr));
