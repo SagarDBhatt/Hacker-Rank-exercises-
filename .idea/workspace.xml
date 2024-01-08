@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b7fd8dcf-bc07-4ecf-864d-e47fe1a126ad" name="Default Changelist" comment="Java Loops I &amp; Java Loops II exercises">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week8/BalancedBrackets.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThreeMonthPreparationKit/October_2022/Week8/ResultSuperReducedString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ThreeMonthPreparationKit/October_2022/Week8/ResultSuperReducedString.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +73,7 @@
       <recent name="$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SuperReducedString">
+  <component name="RunManager" selected="Application.BalancedBrackets">
     <configuration name="Angrams" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="EasyLevel.Angrams" />
       <module name="HackerRank" />
@@ -79,22 +81,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DuplicateWords" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="EasyLevel.DuplicateWords" />
+    <configuration name="BalancedBrackets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThreeMonthPreparationKit.October_2022.Week8.BalancedBrackets" />
       <module name="HackerRank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ThreeMonthPreparationKit.October_2022.Week8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EX4_SherlockandValidString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ThreeMonthPreparationKit.October_2022.Week7.EX4_SherlockandValidString" />
+    <configuration name="DuplicateWords" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="EasyLevel.DuplicateWords" />
       <module name="HackerRank" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ThreeMonthPreparationKit.October_2022.Week7.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -203,19 +205,19 @@
       <item itemvalue="Application.Palindrome" />
       <item itemvalue="Application.Angrams" />
       <item itemvalue="Application.JavaStringTokens" />
-      <item itemvalue="Application.EX4_SherlockandValidString" />
       <item itemvalue="Application.Ex5_ClimbingtTheLeaderBoard" />
       <item itemvalue="Application.Week7_FinalTest" />
       <item itemvalue="Application.IcecreamParlor" />
       <item itemvalue="Application.SuperReducedString" />
+      <item itemvalue="Application.BalancedBrackets" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BalancedBrackets" />
         <item itemvalue="Application.SuperReducedString" />
         <item itemvalue="Application.IcecreamParlor" />
         <item itemvalue="Application.Week7_FinalTest" />
         <item itemvalue="Application.Ex5_ClimbingtTheLeaderBoard" />
-        <item itemvalue="Application.EX4_SherlockandValidString" />
       </list>
     </recent_temporary>
   </component>
@@ -237,6 +239,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+      <changelist id="461cdd08-21e9-4107-8746-263079e64188" name="Changes" comment="" />
       <created>1584394507643</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -629,6 +632,11 @@
           </properties>
           <option name="timeStamp" value="112" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week8/BalancedBrackets.java</url>
+          <line>66</line>
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week1/Week1_07_SparsArrays.java</url>
           <line>136</line>
@@ -639,6 +647,16 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="String.valueOf(stack.peek())" language="JAVA" />
+        <watch expression="map.get(open).equals(String.valueOf(stack.peek()))" language="JAVA" />
+        <watch expression="map.get(open)" language="JAVA" />
+        <watch expression="map.get(stack.peek()).equals(String.valueOf(open))" language="JAVA" />
+        <watch expression="map.get(String.valueOf(stack.peek()))" language="JAVA" />
+        <watch expression="stack.peek()" language="JAVA" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/HackerRank$Week3_FinalTest.ic" NAME="Week3_FinalTest Coverage Results" MODIFIED="1678729207277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
