@@ -8,6 +8,11 @@ public class MainClass{
         functionalInterfaceCalc obj1 = (a,b) -> (a+b);
         System.out.println("No need to metion the datatype and return value as well!!!" + obj1.sum(5,8));
 
+        functionalInterfaceCalc f = (int a, int b) -> {
+                return a*2 + b*2;
+        };
+        System.out.println(f.sum(5,10) );
+
         //APPROACH 1:
         functionalInterfaceCalc obj = (int a, int b) -> { return (a + b); };
         System.out.println("Sum of two numbers = " + obj.sum(4,5));
