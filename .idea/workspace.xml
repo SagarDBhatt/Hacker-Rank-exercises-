@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b7fd8dcf-bc07-4ecf-864d-e47fe1a126ad" name="Default Changelist" comment="Java Loops I &amp; Java Loops II exercises">
+      <change afterPath="$PROJECT_DIR$/src/main/java/CodingInteview/InterviewCodingQuestions/Nordstorm/testOne.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThreeMonthPreparationKit/October_2022/Week9/SimpletextEditor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ThreeMonthPreparationKit/October_2022/Week9/SimpletextEditor.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +18,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="module-info" />
         <option value="Class" />
       </list>
     </option>
@@ -55,6 +58,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="GitStage.ChangesTree.GroupingKeys" value="directory&#10;module&#10;repository" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -65,13 +69,17 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week9" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week1" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="CodingInteview" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.SimpletextEditor">
+  <component name="RunManager" selected="Application.EqualStacks">
     <configuration name="Angrams" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="EasyLevel.Angrams" />
       <module name="HackerRank" />
@@ -79,22 +87,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BalancedBrackets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ThreeMonthPreparationKit.October_2022.Week8.BalancedBrackets" />
+    <configuration name="DuplicateWords" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="EasyLevel.DuplicateWords" />
       <module name="HackerRank" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ThreeMonthPreparationKit.October_2022.Week8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DuplicateWords" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="EasyLevel.DuplicateWords" />
+    <configuration name="EqualStacks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThreeMonthPreparationKit.October_2022.Week9.EqualStacks" />
       <module name="HackerRank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ThreeMonthPreparationKit.October_2022.Week9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -168,12 +176,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SuperReducedString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ThreeMonthPreparationKit.October_2022.Week8.SuperReducedString" />
+    <configuration name="Waiter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThreeMonthPreparationKit.October_2022.Week9.Waiter" />
       <module name="HackerRank" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ThreeMonthPreparationKit.October_2022.Week8.*" />
+          <option name="PATTERN" value="ThreeMonthPreparationKit.October_2022.Week9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -181,12 +189,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Waiter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ThreeMonthPreparationKit.October_2022.Week9.Waiter" />
+    <configuration name="testOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodingInteview.InterviewCodingQuestions.Nordstorm.testOne" />
       <module name="HackerRank" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ThreeMonthPreparationKit.October_2022.Week9.*" />
+          <option name="PATTERN" value="CodingInteview.InterviewCodingQuestions.Nordstorm.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -203,19 +211,19 @@
       <item itemvalue="Application.Palindrome" />
       <item itemvalue="Application.Angrams" />
       <item itemvalue="Application.JavaStringTokens" />
-      <item itemvalue="Application.SuperReducedString" />
-      <item itemvalue="Application.BalancedBrackets" />
       <item itemvalue="Application.Waiter" />
       <item itemvalue="Application.StockMaximize" />
       <item itemvalue="Application.SimpletextEditor" />
+      <item itemvalue="Application.testOne" />
+      <item itemvalue="Application.EqualStacks" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EqualStacks" />
+        <item itemvalue="Application.testOne" />
         <item itemvalue="Application.SimpletextEditor" />
         <item itemvalue="Application.StockMaximize" />
         <item itemvalue="Application.Waiter" />
-        <item itemvalue="Application.BalancedBrackets" />
-        <item itemvalue="Application.SuperReducedString" />
       </list>
     </recent_temporary>
   </component>
@@ -237,7 +245,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b4da4b4d-b23e-4999-8af0-a59b463fe934" name="Changes" comment="" />
+      <changelist id="3c8e3026-8a58-4af3-a7f8-e96df0debb36" name="Changes" comment="" />
       <created>1584394507643</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -487,6 +495,21 @@
           <line>108</line>
           <option name="timeStamp" value="136" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/CodingInteview/InterviewCodingQuestions/Nordstorm/testOne.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="137" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/CodingInteview/InterviewCodingQuestions/Nordstorm/testOne.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="138" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week9/EqualStacks.java</url>
+          <line>73</line>
+          <option name="timeStamp" value="142" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week1/Week1_07_SparsArrays.java</url>
           <line>136</line>
@@ -497,13 +520,6 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="resultMap.get(resultMap.size()-1).charAt(Integer.parseInt(inpArray[1])-1)" language="JAVA" />
-        <watch expression="s.substring(0,s.length()-Integer.parseInt(inpArray[1]))" language="JAVA" />
-        <watch expression="resultMap.get(resultMap.size()-1).charAt(95)" language="JAVA" />
-      </configuration>
-    </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/HackerRank$Week3_FinalTest.ic" NAME="Week3_FinalTest Coverage Results" MODIFIED="1678729207277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
