@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b7fd8dcf-bc07-4ecf-864d-e47fe1a126ad" name="Default Changelist" comment="Java Loops I &amp; Java Loops II exercises">
-      <change afterPath="$PROJECT_DIR$/src/main/java/CodingInteview/InterviewCodingQuestions/Nordstorm/testOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/EasyLevel/BreakingTheRecord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week9/CoinChangeProblem.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ThreeMonthPreparationKit/October_2022/Week9/SimpletextEditor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ThreeMonthPreparationKit/October_2022/Week9/SimpletextEditor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThreeMonthPreparationKit/October_2022/Week9/EqualStacksResult.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ThreeMonthPreparationKit/October_2022/Week9/EqualStacksResult.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,10 +80,23 @@
       <recent name="CodingInteview" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EqualStacks">
+  <component name="RunManager" selected="Application.FindFibonacciSeries">
     <configuration name="Angrams" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="EasyLevel.Angrams" />
       <module name="HackerRank" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BreakingTheRecord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EasyLevel.BreakingTheRecord" />
+      <module name="HackerRank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EasyLevel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -100,6 +114,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ThreeMonthPreparationKit.October_2022.Week9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindFibonacciSeries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EasyLevel.FindFibonacciSeries" />
+      <module name="HackerRank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EasyLevel.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,36 +182,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StockMaximize" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ThreeMonthPreparationKit.October_2022.Week9.StockMaximize" />
-      <module name="HackerRank" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ThreeMonthPreparationKit.October_2022.Week9.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Substring Comparison" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="EasyLevel.JavaSubstringComparisons" />
       <module name="HackerRank" />
       <option name="PROGRAM_PARAMETERS" value="welcometojava 3" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Waiter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ThreeMonthPreparationKit.October_2022.Week9.Waiter" />
-      <module name="HackerRank" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ThreeMonthPreparationKit.October_2022.Week9.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -211,19 +212,19 @@
       <item itemvalue="Application.Palindrome" />
       <item itemvalue="Application.Angrams" />
       <item itemvalue="Application.JavaStringTokens" />
-      <item itemvalue="Application.Waiter" />
-      <item itemvalue="Application.StockMaximize" />
       <item itemvalue="Application.SimpletextEditor" />
       <item itemvalue="Application.testOne" />
       <item itemvalue="Application.EqualStacks" />
+      <item itemvalue="Application.BreakingTheRecord" />
+      <item itemvalue="Application.FindFibonacciSeries" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindFibonacciSeries" />
+        <item itemvalue="Application.BreakingTheRecord" />
         <item itemvalue="Application.EqualStacks" />
         <item itemvalue="Application.testOne" />
         <item itemvalue="Application.SimpletextEditor" />
-        <item itemvalue="Application.StockMaximize" />
-        <item itemvalue="Application.Waiter" />
       </list>
     </recent_temporary>
   </component>
@@ -245,7 +246,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3c8e3026-8a58-4af3-a7f8-e96df0debb36" name="Changes" comment="" />
+      <changelist id="9e6a41c4-e141-466c-87ff-ce2df41baae0" name="Changes" comment="" />
       <created>1584394507643</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -509,6 +510,16 @@
           <url>file://$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week9/EqualStacks.java</url>
           <line>73</line>
           <option name="timeStamp" value="142" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/EasyLevel/BreakingTheRecord.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="143" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/EasyLevel/FindFibonacciSeries.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="144" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week1/Week1_07_SparsArrays.java</url>
