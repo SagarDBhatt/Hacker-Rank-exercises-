@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b7fd8dcf-bc07-4ecf-864d-e47fe1a126ad" name="Default Changelist" comment="Java Loops I &amp; Java Loops II exercises">
-      <change afterPath="$PROJECT_DIR$/src/main/java/EasyLevel/BreakingTheRecord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week9/CoinChangeProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week9/TwoCharacters.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ThreeMonthPreparationKit/October_2022/Week9/EqualStacksResult.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ThreeMonthPreparationKit/October_2022/Week9/EqualStacksResult.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week9/CoinChangeProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week9/CoinChangeProblem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThreeMonthPreparationKit/October_2022/Week9/CoinChangeProblem.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ThreeMonthPreparationKit/October_2022/Week9/CoinChangeProblem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThreeMonthPreparationKit/October_2022/Week9/CoinChangeProblemResult.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ThreeMonthPreparationKit/October_2022/Week9/CoinChangeProblemResult.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +81,7 @@
       <recent name="CodingInteview" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FindFibonacciSeries">
+  <component name="RunManager" selected="Application.TwoCharacters">
     <configuration name="Angrams" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="EasyLevel.Angrams" />
       <module name="HackerRank" />
@@ -169,8 +170,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimpletextEditor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ThreeMonthPreparationKit.October_2022.Week9.SimpletextEditor" />
+    <configuration name="Substring Comparison" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="EasyLevel.JavaSubstringComparisons" />
+      <module name="HackerRank" />
+      <option name="PROGRAM_PARAMETERS" value="welcometojava 3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoCharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThreeMonthPreparationKit.October_2022.Week9.TwoCharacters" />
       <module name="HackerRank" />
       <extension name="coverage">
         <pattern>
@@ -178,14 +187,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Substring Comparison" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="EasyLevel.JavaSubstringComparisons" />
-      <module name="HackerRank" />
-      <option name="PROGRAM_PARAMETERS" value="welcometojava 3" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -212,19 +213,19 @@
       <item itemvalue="Application.Palindrome" />
       <item itemvalue="Application.Angrams" />
       <item itemvalue="Application.JavaStringTokens" />
-      <item itemvalue="Application.SimpletextEditor" />
       <item itemvalue="Application.testOne" />
       <item itemvalue="Application.EqualStacks" />
       <item itemvalue="Application.BreakingTheRecord" />
       <item itemvalue="Application.FindFibonacciSeries" />
+      <item itemvalue="Application.TwoCharacters" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TwoCharacters" />
         <item itemvalue="Application.FindFibonacciSeries" />
         <item itemvalue="Application.BreakingTheRecord" />
         <item itemvalue="Application.EqualStacks" />
         <item itemvalue="Application.testOne" />
-        <item itemvalue="Application.SimpletextEditor" />
       </list>
     </recent_temporary>
   </component>
@@ -246,7 +247,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9e6a41c4-e141-466c-87ff-ce2df41baae0" name="Changes" comment="" />
+      <changelist id="531b3fa4-91f6-4a20-a1b5-bc0112343e07" name="Changes" comment="" />
       <created>1584394507643</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -518,7 +519,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/EasyLevel/FindFibonacciSeries.java</url>
-          <line>32</line>
+          <line>38</line>
           <option name="timeStamp" value="144" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
