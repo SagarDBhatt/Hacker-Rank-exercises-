@@ -41,6 +41,7 @@ class CoinChangeProblemResult {
 
     public static long getWays(int n, List<Long> c) {
         // Write your code here
+        //Test
         int k = c.size();
         //make a table to save info of problem after being broken down
         //it should have k rows of denomination
