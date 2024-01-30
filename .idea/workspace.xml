@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b7fd8dcf-bc07-4ecf-864d-e47fe1a126ad" name="Default Changelist" comment="Java Loops I &amp; Java Loops II exercises">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week9/TwoCharacters.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week9/CoinChangeProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week9/CoinChangeProblem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ThreeMonthPreparationKit/October_2022/Week9/CoinChangeProblem.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ThreeMonthPreparationKit/October_2022/Week9/CoinChangeProblem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week9/TwoCharacters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week9/TwoCharacters.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/ThreeMonthPreparationKit/October_2022/Week9/CoinChangeProblemResult.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ThreeMonthPreparationKit/October_2022/Week9/CoinChangeProblemResult.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThreeMonthPreparationKit/October_2022/Week9/SolutionTwoAlternatingCharacters.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ThreeMonthPreparationKit/October_2022/Week9/SolutionTwoAlternatingCharacters.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThreeMonthPreparationKit/October_2022/Week9/TwoCharacters.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ThreeMonthPreparationKit/October_2022/Week9/TwoCharacters.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -247,7 +246,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="531b3fa4-91f6-4a20-a1b5-bc0112343e07" name="Changes" comment="" />
+      <changelist id="f55938b3-b129-482d-a3b0-f6423e1f0c3f" name="Changes" comment="" />
       <created>1584394507643</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -521,6 +520,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/EasyLevel/FindFibonacciSeries.java</url>
           <line>38</line>
           <option name="timeStamp" value="144" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week9/TwoCharacters.java</url>
+          <line>98</line>
+          <option name="timeStamp" value="147" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week1/Week1_07_SparsArrays.java</url>
