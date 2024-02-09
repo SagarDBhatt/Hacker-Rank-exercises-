@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7fd8dcf-bc07-4ecf-864d-e47fe1a126ad" name="Default Changelist" comment="Java Loops I &amp; Java Loops II exercises">
-      <change beforePath="$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week9/TwoCharacters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week9/TwoCharacters.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ThreeMonthPreparationKit/October_2022/Week9/CoinChangeProblemResult.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ThreeMonthPreparationKit/October_2022/Week9/CoinChangeProblemResult.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ThreeMonthPreparationKit/October_2022/Week9/SolutionTwoAlternatingCharacters.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ThreeMonthPreparationKit/October_2022/Week9/SolutionTwoAlternatingCharacters.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ThreeMonthPreparationKit/October_2022/Week9/TwoCharacters.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ThreeMonthPreparationKit/October_2022/Week9/TwoCharacters.class" afterDir="false" />
-    </list>
+    <list default="true" id="b7fd8dcf-bc07-4ecf-864d-e47fe1a126ad" name="Default Changelist" comment="Java Loops I &amp; Java Loops II exercises" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -246,7 +241,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f55938b3-b129-482d-a3b0-f6423e1f0c3f" name="Changes" comment="" />
+      <changelist id="2b9e6c82-7022-4b13-bd0c-dcf72b1b54d0" name="Changes" comment="" />
       <created>1584394507643</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
