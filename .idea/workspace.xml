@@ -62,9 +62,9 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.16713092" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week9" />
@@ -77,23 +77,10 @@
       <recent name="CodingInteview" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ChiefHopper">
+  <component name="RunManager" selected="Application.MockTestWeek9">
     <configuration name="Angrams" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="EasyLevel.Angrams" />
       <module name="HackerRank" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BreakingTheRecord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EasyLevel.BreakingTheRecord" />
-      <module name="HackerRank" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="EasyLevel.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -158,6 +145,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MockTestWeek9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-16.0.2/Contents/Home" />
+      <option name="MAIN_CLASS_NAME" value="ThreeMonthPreparationKit.October_2022.Week9.MockTestWeek9" />
+      <module name="HackerRank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ThreeMonthPreparationKit.October_2022.Week9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Palindrome" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="EasyLevel.Palindrome" />
       <module name="HackerRank" />
@@ -200,6 +201,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.PatternChecker" />
       <item itemvalue="Application.Remainder" />
@@ -209,19 +221,19 @@
       <item itemvalue="Application.Palindrome" />
       <item itemvalue="Application.Angrams" />
       <item itemvalue="Application.JavaStringTokens" />
-      <item itemvalue="Application.BreakingTheRecord" />
       <item itemvalue="Application.FindFibonacciSeries" />
       <item itemvalue="Application.TwoCharacters" />
       <item itemvalue="Application.MaximumSubArray" />
       <item itemvalue="Application.ChiefHopper" />
+      <item itemvalue="Application.MockTestWeek9" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MockTestWeek9" />
         <item itemvalue="Application.ChiefHopper" />
         <item itemvalue="Application.MaximumSubArray" />
         <item itemvalue="Application.TwoCharacters" />
         <item itemvalue="Application.FindFibonacciSeries" />
-        <item itemvalue="Application.BreakingTheRecord" />
       </list>
     </recent_temporary>
   </component>
@@ -243,7 +255,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="81aac644-1ab1-4465-bdad-e4ab1be7b860" name="Changes" comment="" />
+      <changelist id="92e31a9f-ca9c-4405-81fa-aae6fe1b6f92" name="Changes" comment="" />
       <created>1584394507643</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -547,6 +559,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week9/ChiefHopper.java</url>
           <line>64</line>
           <option name="timeStamp" value="153" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week9/MockTestWeek9.java</url>
+          <line>82</line>
+          <option name="timeStamp" value="155" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week1/Week1_07_SparsArrays.java</url>
