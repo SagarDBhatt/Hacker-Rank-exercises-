@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b7fd8dcf-bc07-4ecf-864d-e47fe1a126ad" name="Default Changelist" comment="Java Loops I &amp; Java Loops II exercises">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week10/LegoWall.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -255,7 +256,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="92e31a9f-ca9c-4405-81fa-aae6fe1b6f92" name="Changes" comment="" />
+      <changelist id="e1c25feb-0928-4ade-8c5f-15f8ffcd4c05" name="Changes" comment="" />
       <created>1584394507643</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -562,7 +563,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week9/MockTestWeek9.java</url>
-          <line>82</line>
+          <line>79</line>
           <option name="timeStamp" value="155" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
