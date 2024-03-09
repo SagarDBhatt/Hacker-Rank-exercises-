@@ -78,7 +78,7 @@
       <recent name="CodingInteview" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MockTestWeek9">
+  <component name="RunManager" selected="Application.UniformWeightedString">
     <configuration name="Angrams" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="EasyLevel.Angrams" />
       <module name="HackerRank" />
@@ -102,19 +102,6 @@
     <configuration name="DuplicateWords" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="EasyLevel.DuplicateWords" />
       <module name="HackerRank" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FindFibonacciSeries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EasyLevel.FindFibonacciSeries" />
-      <module name="HackerRank" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="EasyLevel.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -202,6 +189,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UniformWeightedString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThreeMonthPreparationKit.October_2022.Week10.UniformWeightedString" />
+      <module name="HackerRank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ThreeMonthPreparationKit.October_2022.Week10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <method v="2">
         <option name="Make" enabled="true" />
@@ -222,19 +222,19 @@
       <item itemvalue="Application.Palindrome" />
       <item itemvalue="Application.Angrams" />
       <item itemvalue="Application.JavaStringTokens" />
-      <item itemvalue="Application.FindFibonacciSeries" />
       <item itemvalue="Application.TwoCharacters" />
       <item itemvalue="Application.MaximumSubArray" />
       <item itemvalue="Application.ChiefHopper" />
       <item itemvalue="Application.MockTestWeek9" />
+      <item itemvalue="Application.UniformWeightedString" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UniformWeightedString" />
         <item itemvalue="Application.MockTestWeek9" />
         <item itemvalue="Application.ChiefHopper" />
         <item itemvalue="Application.MaximumSubArray" />
         <item itemvalue="Application.TwoCharacters" />
-        <item itemvalue="Application.FindFibonacciSeries" />
       </list>
     </recent_temporary>
   </component>
@@ -566,6 +566,21 @@
           <line>79</line>
           <option name="timeStamp" value="155" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week10/UniformWeightedString.java</url>
+          <line>70</line>
+          <option name="timeStamp" value="156" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week10/UniformWeightedString.java</url>
+          <line>121</line>
+          <option name="timeStamp" value="159" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week10/UniformWeightedString.java</url>
+          <line>125</line>
+          <option name="timeStamp" value="160" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week1/Week1_07_SparsArrays.java</url>
           <line>136</line>
@@ -576,6 +591,12 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="s.charAt(i)" language="JAVA" />
+        <watch expression="s.charAt(j)" language="JAVA" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/HackerRank$Week3_FinalTest.ic" NAME="Week3_FinalTest Coverage Results" MODIFIED="1678729207277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
