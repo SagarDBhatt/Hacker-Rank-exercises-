@@ -1,6 +1,5 @@
-import java.io.BufferedReader;
-import java.nio.Buffer;
-import java.util.Arrays;
+package CodingInteview.Companies.GHX;
+
 import java.util.HashMap;
 import java.util.Map;
 
