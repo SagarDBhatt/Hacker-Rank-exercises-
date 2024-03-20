@@ -75,7 +75,7 @@
       <recent name="CodingInteview" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RomanToIntegerConverter">
+  <component name="RunManager" selected="Application.JesseAndCookies">
     <configuration name="Angrams" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="EasyLevel.Angrams" />
       <module name="HackerRank" />
@@ -104,8 +104,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LargestRectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ThreeMonthPreparationKit.October_2022.Week10.LargestRectangle" />
+    <configuration name="JesseAndCookies" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThreeMonthPreparationKit.October_2022.Week10.JesseAndCookies" />
       <module name="HackerRank" />
       <extension name="coverage">
         <pattern>
@@ -117,13 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MockTestWeek9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-16.0.2/Contents/Home" />
-      <option name="MAIN_CLASS_NAME" value="ThreeMonthPreparationKit.October_2022.Week9.MockTestWeek9" />
+    <configuration name="LargestRectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThreeMonthPreparationKit.October_2022.Week10.LargestRectangle" />
       <module name="HackerRank" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ThreeMonthPreparationKit.October_2022.Week9.*" />
+          <option name="PATTERN" value="ThreeMonthPreparationKit.October_2022.Week10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,7 +165,7 @@
       </method>
     </configuration>
     <configuration name="RomanToIntegerConverter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RomanToIntegerConverter" />
+      <option name="MAIN_CLASS_NAME" value="CodingInteview.Companies.GHX.RomanToIntegerConverter" />
       <module name="HackerRank" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -213,19 +212,19 @@
       <item itemvalue="Application.Palindrome" />
       <item itemvalue="Application.Angrams" />
       <item itemvalue="Application.JavaStringTokens" />
-      <item itemvalue="Application.MockTestWeek9" />
       <item itemvalue="Application.UniformWeightedString" />
       <item itemvalue="Application.PriorityQueurOps" />
       <item itemvalue="Application.LargestRectangle" />
       <item itemvalue="Application.RomanToIntegerConverter" />
+      <item itemvalue="Application.JesseAndCookies" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JesseAndCookies" />
         <item itemvalue="Application.RomanToIntegerConverter" />
         <item itemvalue="Application.LargestRectangle" />
         <item itemvalue="Application.PriorityQueurOps" />
         <item itemvalue="Application.UniformWeightedString" />
-        <item itemvalue="Application.MockTestWeek9" />
       </list>
     </recent_temporary>
   </component>
@@ -498,12 +497,12 @@
           <option name="timeStamp" value="136" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/CodingInteview/InterviewCodingQuestions/Nordstorm/testOne.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/CodingInteview/Companies/Nordstorm/testOne.java</url>
           <line>7</line>
           <option name="timeStamp" value="137" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/CodingInteview/InterviewCodingQuestions/Nordstorm/testOne.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/CodingInteview/Companies/Nordstorm/testOne.java</url>
           <line>16</line>
           <option name="timeStamp" value="138" />
         </line-breakpoint>
@@ -583,9 +582,24 @@
           <option name="timeStamp" value="164" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/RomanToIntegerConverter.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/CodingInteview/Companies/GHX/RomanToIntegerConverter.java</url>
           <line>41</line>
           <option name="timeStamp" value="165" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week10/JesseAndCookies.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="167" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week10/JesseAndCookies.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="168" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week10/JesseAndCookies.java</url>
+          <line>99</line>
+          <option name="timeStamp" value="169" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/ThreeMonthPreparationKit/October_2022/Week1/Week1_07_SparsArrays.java</url>
@@ -599,8 +613,8 @@
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
-        <watch expression="romanVal.charAt(i)" language="JAVA" />
-        <watch expression="mapper.get(String.valueOf(romanVal.charAt(i)))" language="JAVA" />
+        <watch expression="cookie != null" language="JAVA" />
+        <watch expression="cookie.isEmpty()" language="JAVA" />
       </configuration>
     </watches-manager>
   </component>
