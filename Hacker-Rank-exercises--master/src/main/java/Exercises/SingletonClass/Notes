@@ -1,0 +1,37 @@
+****************************************************************
+                           ONSJHJSA
+****************************************************************
+
+SINGLETON CLASS:
+
+-> A class whose only one object can be created at any given time is Singleton class.
+
+==> Two steps to achieve singleton class.
+    1. Make a constuctor private.
+    2. Create a static method which return instance/object of the class.
+        -> Use if condition to check if object has been created already or not.
+        -> If object has not been created then create a object and return for the first time.
+        -> If object has already been created then return the same created object
+            and does not create a new object.
+
+==> FOR EG:
+
+    public class Singleton {
+
+    private static Singleton singletonObject = null;
+
+    private Singleton(){
+    }
+
+    public static Singleton getSingletonObject(){
+        if(singletonObject==null)
+            singletonObject = new Singleton();
+
+        return singletonObject;
+    }
+
+    public void printMessage(){
+        System.out.println("This is PrintMessage() in singleton class");
+    }
+
+}
